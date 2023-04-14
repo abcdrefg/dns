@@ -1,0 +1,9001 @@
+[{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0db"
+  },
+  "domain_name": "2.pl",
+  "ipv4": [
+    "12.30.38.68"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0dc"
+  },
+  "domain_name": "1080.pl",
+  "ipv4": [
+    "23.59.75.135"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0dd"
+  },
+  "domain_name": "&c.pl",
+  "ipv4": [
+    "34.88.112.202"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0de"
+  },
+  "domain_name": "10-point.pl",
+  "ipv4": [
+    "45.117.149.14"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0df"
+  },
+  "domain_name": "10th.pl",
+  "ipv4": [
+    "56.146.186.81"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e0"
+  },
+  "domain_name": "11-point.pl",
+  "ipv4": [
+    "67.175.223.148"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e1"
+  },
+  "domain_name": "12-point.pl",
+  "ipv4": [
+    "78.204.5.215"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e2"
+  },
+  "domain_name": "16-point.pl",
+  "ipv4": [
+    "89.233.42.27"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e3"
+  },
+  "domain_name": "18-point.pl",
+  "ipv4": [
+    "100.7.79.94"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e4"
+  },
+  "domain_name": "1st.pl",
+  "ipv4": [
+    "111.36.116.161"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e5"
+  },
+  "domain_name": "2,4,5-t.pl",
+  "ipv4": [
+    "122.65.153.228"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e6"
+  },
+  "domain_name": "2,4-d.pl",
+  "ipv4": [
+    "133.94.190.40"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e7"
+  },
+  "domain_name": "20-point.pl",
+  "ipv4": [
+    "144.123.227.107"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e8"
+  },
+  "domain_name": "2D.pl",
+  "ipv4": [
+    "155.152.9.174"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0e9"
+  },
+  "domain_name": "2nd.pl",
+  "ipv4": [
+    "166.181.46.241"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ea"
+  },
+  "domain_name": "30-30.pl",
+  "ipv4": [
+    "177.210.83.53"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0eb"
+  },
+  "domain_name": "3D.pl",
+  "ipv4": [
+    "188.239.120.120"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ec"
+  },
+  "domain_name": "3-D.pl",
+  "ipv4": [
+    "199.13.157.187"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ed"
+  },
+  "domain_name": "3M.pl",
+  "ipv4": [
+    "210.42.194.254"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ee"
+  },
+  "domain_name": "3rd.pl",
+  "ipv4": [
+    "221.71.231.66"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ef"
+  },
+  "domain_name": "48-point.pl",
+  "ipv4": [
+    "232.100.13.133"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f0"
+  },
+  "domain_name": "4-D.pl",
+  "ipv4": [
+    "243.129.50.200"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f1"
+  },
+  "domain_name": "4GL.pl",
+  "ipv4": [
+    "254.158.87.12"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f2"
+  },
+  "domain_name": "4H.pl",
+  "ipv4": [
+    "10.187.124.79"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f3"
+  },
+  "domain_name": "4th.pl",
+  "ipv4": [
+    "21.216.161.146"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f4"
+  },
+  "domain_name": "5-point.pl",
+  "ipv4": [
+    "32.245.198.213"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f5"
+  },
+  "domain_name": "5-T.pl",
+  "ipv4": [
+    "43.19.235.25"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f6"
+  },
+  "domain_name": "5th.pl",
+  "ipv4": [
+    "54.48.17.92"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f7"
+  },
+  "domain_name": "6-point.pl",
+  "ipv4": [
+    "65.77.54.159"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f8"
+  },
+  "domain_name": "6th.pl",
+  "ipv4": [
+    "76.106.91.226"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0f9"
+  },
+  "domain_name": "7-point.pl",
+  "ipv4": [
+    "87.135.128.38"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0fa"
+  },
+  "domain_name": "7th.pl",
+  "ipv4": [
+    "98.164.165.105"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0fb"
+  },
+  "domain_name": "8-point.pl",
+  "ipv4": [
+    "109.193.202.172"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0fc"
+  },
+  "domain_name": "8th.pl",
+  "ipv4": [
+    "120.222.239.239"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0fd"
+  },
+  "domain_name": "9-point.pl",
+  "ipv4": [
+    "131.251.21.51"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0fe"
+  },
+  "domain_name": "9th.pl",
+  "ipv4": [
+    "142.25.58.118"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf0ff"
+  },
+  "domain_name": "a.pl",
+  "ipv4": [
+    "153.54.95.185"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf100"
+  },
+  "domain_name": "a'.pl",
+  "ipv4": [
+    "164.83.132.252"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf101"
+  },
+  "domain_name": "a-.pl",
+  "ipv4": [
+    "175.112.169.64"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf102"
+  },
+  "domain_name": "A&M.pl",
+  "ipv4": [
+    "186.141.206.131"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf103"
+  },
+  "domain_name": "A&P.pl",
+  "ipv4": [
+    "197.170.243.198"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf104"
+  },
+  "domain_name": "A..pl",
+  "ipv4": [
+    "208.199.25.10"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf105"
+  },
+  "domain_name": "A.A.A..pl",
+  "ipv4": [
+    "219.228.62.77"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf106"
+  },
+  "domain_name": "A.B..pl",
+  "ipv4": [
+    "230.2.99.144"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf107"
+  },
+  "domain_name": "A.B.A..pl",
+  "ipv4": [
+    "241.31.136.211"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf108"
+  },
+  "domain_name": "A.C..pl",
+  "ipv4": [
+    "252.60.173.23"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf109"
+  },
+  "domain_name": "A.D..pl",
+  "ipv4": [
+    "8.89.210.90"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10a"
+  },
+  "domain_name": "A.D.C..pl",
+  "ipv4": [
+    "19.118.247.157"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10b"
+  },
+  "domain_name": "A.F..pl",
+  "ipv4": [
+    "30.147.29.224"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10c"
+  },
+  "domain_name": "A.F.A.M..pl",
+  "ipv4": [
+    "41.176.66.36"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10d"
+  },
+  "domain_name": "A.G..pl",
+  "ipv4": [
+    "52.205.103.103"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10e"
+  },
+  "domain_name": "A.H..pl",
+  "ipv4": [
+    "63.234.140.170"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf10f"
+  },
+  "domain_name": "A.I..pl",
+  "ipv4": [
+    "74.8.177.237"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf110"
+  },
+  "domain_name": "A.I.A..pl",
+  "ipv4": [
+    "85.37.214.49"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf111"
+  },
+  "domain_name": "A.I.D..pl",
+  "ipv4": [
+    "96.66.251.116"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf112"
+  },
+  "domain_name": "A.L..pl",
+  "ipv4": [
+    "107.95.33.183"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf113"
+  },
+  "domain_name": "A.L.P..pl",
+  "ipv4": [
+    "118.124.70.250"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf114"
+  },
+  "domain_name": "A.M..pl",
+  "ipv4": [
+    "129.153.107.62"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf115"
+  },
+  "domain_name": "A.M.A..pl",
+  "ipv4": [
+    "140.182.144.129"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf116"
+  },
+  "domain_name": "A.M.D.G..pl",
+  "ipv4": [
+    "151.211.181.196"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf117"
+  },
+  "domain_name": "A.N..pl",
+  "ipv4": [
+    "162.240.218.8"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf118"
+  },
+  "domain_name": "a.p..pl",
+  "ipv4": [
+    "173.14.255.75"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf119"
+  },
+  "domain_name": "a.r..pl",
+  "ipv4": [
+    "184.43.37.142"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11a"
+  },
+  "domain_name": "A.R.C.S..pl",
+  "ipv4": [
+    "195.72.74.209"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11b"
+  },
+  "domain_name": "A.U..pl",
+  "ipv4": [
+    "206.101.111.21"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11c"
+  },
+  "domain_name": "A.U.C..pl",
+  "ipv4": [
+    "217.130.148.88"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11d"
+  },
+  "domain_name": "A.V..pl",
+  "ipv4": [
+    "228.159.185.155"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11e"
+  },
+  "domain_name": "a.w..pl",
+  "ipv4": [
+    "239.188.222.222"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf11f"
+  },
+  "domain_name": "A.W.O.L..pl",
+  "ipv4": [
+    "250.217.4.34"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf120"
+  },
+  "domain_name": "A/C.pl",
+  "ipv4": [
+    "6.246.41.101"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf121"
+  },
+  "domain_name": "A/F.pl",
+  "ipv4": [
+    "17.20.78.168"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf122"
+  },
+  "domain_name": "A/O.pl",
+  "ipv4": [
+    "28.49.115.235"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf123"
+  },
+  "domain_name": "A/P.pl",
+  "ipv4": [
+    "39.78.152.47"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf124"
+  },
+  "domain_name": "A/V.pl",
+  "ipv4": [
+    "50.107.189.114"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf125"
+  },
+  "domain_name": "A1.pl",
+  "ipv4": [
+    "61.136.226.181"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf126"
+  },
+  "domain_name": "A-1.pl",
+  "ipv4": [
+    "72.165.8.248"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf127"
+  },
+  "domain_name": "A4.pl",
+  "ipv4": [
+    "83.194.45.60"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf128"
+  },
+  "domain_name": "A5.pl",
+  "ipv4": [
+    "94.223.82.127"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf129"
+  },
+  "domain_name": "AA.pl",
+  "ipv4": [
+    "105.252.119.194"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12a"
+  },
+  "domain_name": "AAA.pl",
+  "ipv4": [
+    "116.26.156.6"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12b"
+  },
+  "domain_name": "AAAA.pl",
+  "ipv4": [
+    "127.55.193.73"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12c"
+  },
+  "domain_name": "AAAAAA.pl",
+  "ipv4": [
+    "138.84.230.140"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12d"
+  },
+  "domain_name": "AAAL.pl",
+  "ipv4": [
+    "149.113.12.207"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12e"
+  },
+  "domain_name": "AAAS.pl",
+  "ipv4": [
+    "160.142.49.19"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf12f"
+  },
+  "domain_name": "Aaberg.pl",
+  "ipv4": [
+    "171.171.86.86"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf130"
+  },
+  "domain_name": "Aachen.pl",
+  "ipv4": [
+    "182.200.123.153"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf131"
+  },
+  "domain_name": "AAE.pl",
+  "ipv4": [
+    "193.229.160.220"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf132"
+  },
+  "domain_name": "AAEE.pl",
+  "ipv4": [
+    "204.3.197.32"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf133"
+  },
+  "domain_name": "AAF.pl",
+  "ipv4": [
+    "215.32.234.99"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf134"
+  },
+  "domain_name": "AAG.pl",
+  "ipv4": [
+    "226.61.16.166"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf135"
+  },
+  "domain_name": "aah.pl",
+  "ipv4": [
+    "237.90.53.233"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf136"
+  },
+  "domain_name": "aahed.pl",
+  "ipv4": [
+    "248.119.90.45"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf137"
+  },
+  "domain_name": "aahing.pl",
+  "ipv4": [
+    "4.148.127.112"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf138"
+  },
+  "domain_name": "aahs.pl",
+  "ipv4": [
+    "15.177.164.179"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf139"
+  },
+  "domain_name": "AAII.pl",
+  "ipv4": [
+    "26.206.201.246"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13a"
+  },
+  "domain_name": "aal.pl",
+  "ipv4": [
+    "37.235.238.58"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13b"
+  },
+  "domain_name": "Aalborg.pl",
+  "ipv4": [
+    "48.9.20.125"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13c"
+  },
+  "domain_name": "Aalesund.pl",
+  "ipv4": [
+    "59.38.57.192"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13d"
+  },
+  "domain_name": "aalii.pl",
+  "ipv4": [
+    "70.67.94.4"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13e"
+  },
+  "domain_name": "aaliis.pl",
+  "ipv4": [
+    "81.96.131.71"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf13f"
+  },
+  "domain_name": "aals.pl",
+  "ipv4": [
+    "92.125.168.138"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf140"
+  },
+  "domain_name": "Aalst.pl",
+  "ipv4": [
+    "103.154.205.205"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf141"
+  },
+  "domain_name": "Aalto.pl",
+  "ipv4": [
+    "114.183.242.17"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf142"
+  },
+  "domain_name": "AAM.pl",
+  "ipv4": [
+    "125.212.24.84"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf143"
+  },
+  "domain_name": "AAMSI.pl",
+  "ipv4": [
+    "136.241.61.151"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf144"
+  },
+  "domain_name": "Aandahl.pl",
+  "ipv4": [
+    "147.15.98.218"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf145"
+  },
+  "domain_name": "A-and-R.pl",
+  "ipv4": [
+    "158.44.135.30"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf146"
+  },
+  "domain_name": "Aani.pl",
+  "ipv4": [
+    "169.73.172.97"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf147"
+  },
+  "domain_name": "AAO.pl",
+  "ipv4": [
+    "180.102.209.164"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf148"
+  },
+  "domain_name": "AAP.pl",
+  "ipv4": [
+    "191.131.246.231"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf149"
+  },
+  "domain_name": "AAPSS.pl",
+  "ipv4": [
+    "202.160.28.43"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14a"
+  },
+  "domain_name": "Aaqbiye.pl",
+  "ipv4": [
+    "213.189.65.110"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14b"
+  },
+  "domain_name": "Aar.pl",
+  "ipv4": [
+    "224.218.102.177"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14c"
+  },
+  "domain_name": "Aara.pl",
+  "ipv4": [
+    "235.247.139.244"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14d"
+  },
+  "domain_name": "Aarau.pl",
+  "ipv4": [
+    "246.21.176.56"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14e"
+  },
+  "domain_name": "AARC.pl",
+  "ipv4": [
+    "2.50.213.123"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf14f"
+  },
+  "domain_name": "aardvark.pl",
+  "ipv4": [
+    "13.79.250.190"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf150"
+  },
+  "domain_name": "aardvarks.pl",
+  "ipv4": [
+    "24.108.32.2"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf151"
+  },
+  "domain_name": "aardwolf.pl",
+  "ipv4": [
+    "35.137.69.69"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf152"
+  },
+  "domain_name": "aardwolves.pl",
+  "ipv4": [
+    "46.166.106.136"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf153"
+  },
+  "domain_name": "Aaren.pl",
+  "ipv4": [
+    "57.195.143.203"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf154"
+  },
+  "domain_name": "Aargau.pl",
+  "ipv4": [
+    "68.224.180.15"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf155"
+  },
+  "domain_name": "aargh.pl",
+  "ipv4": [
+    "79.253.217.82"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf156"
+  },
+  "domain_name": "Aarhus.pl",
+  "ipv4": [
+    "90.27.254.149"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf157"
+  },
+  "domain_name": "Aarika.pl",
+  "ipv4": [
+    "101.56.36.216"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf158"
+  },
+  "domain_name": "Aaron.pl",
+  "ipv4": [
+    "112.85.73.28"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf159"
+  },
+  "domain_name": "Aaronic.pl",
+  "ipv4": [
+    "123.114.110.95"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15a"
+  },
+  "domain_name": "Aaronical.pl",
+  "ipv4": [
+    "134.143.147.162"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15b"
+  },
+  "domain_name": "Aaronite.pl",
+  "ipv4": [
+    "145.172.184.229"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15c"
+  },
+  "domain_name": "Aaronitic.pl",
+  "ipv4": [
+    "156.201.221.41"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15d"
+  },
+  "domain_name": "Aaron's-beard.pl",
+  "ipv4": [
+    "167.230.3.108"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15e"
+  },
+  "domain_name": "Aaronsburg.pl",
+  "ipv4": [
+    "178.4.40.175"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf15f"
+  },
+  "domain_name": "Aaronson.pl",
+  "ipv4": [
+    "189.33.77.242"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf160"
+  },
+  "domain_name": "AARP.pl",
+  "ipv4": [
+    "200.62.114.54"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf161"
+  },
+  "domain_name": "aarrgh.pl",
+  "ipv4": [
+    "211.91.151.121"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf162"
+  },
+  "domain_name": "aarrghh.pl",
+  "ipv4": [
+    "222.120.188.188"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf163"
+  },
+  "domain_name": "Aaru.pl",
+  "ipv4": [
+    "233.149.225.255"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf164"
+  },
+  "domain_name": "AAS.pl",
+  "ipv4": [
+    "244.178.7.67"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf165"
+  },
+  "domain_name": "A'asia.pl",
+  "ipv4": [
+    "255.207.44.134"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf166"
+  },
+  "domain_name": "aasvogel.pl",
+  "ipv4": [
+    "11.236.81.201"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf167"
+  },
+  "domain_name": "aasvogels.pl",
+  "ipv4": [
+    "22.10.118.13"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf168"
+  },
+  "domain_name": "AAU.pl",
+  "ipv4": [
+    "33.39.155.80"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf169"
+  },
+  "domain_name": "AAUP.pl",
+  "ipv4": [
+    "44.68.192.147"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16a"
+  },
+  "domain_name": "AAUW.pl",
+  "ipv4": [
+    "55.97.229.214"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16b"
+  },
+  "domain_name": "AAVSO.pl",
+  "ipv4": [
+    "66.126.11.26"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16c"
+  },
+  "domain_name": "AAX.pl",
+  "ipv4": [
+    "77.155.48.93"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16d"
+  },
+  "domain_name": "A-axes.pl",
+  "ipv4": [
+    "88.184.85.160"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16e"
+  },
+  "domain_name": "A-axis.pl",
+  "ipv4": [
+    "99.213.122.227"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf16f"
+  },
+  "domain_name": "AB.pl",
+  "ipv4": [
+    "110.242.159.39"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf170"
+  },
+  "domain_name": "ab-.pl",
+  "ipv4": [
+    "121.16.196.106"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf171"
+  },
+  "domain_name": "ABA.pl",
+  "ipv4": [
+    "132.45.233.173"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf172"
+  },
+  "domain_name": "Ababa.pl",
+  "ipv4": [
+    "143.74.15.240"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf173"
+  },
+  "domain_name": "Ababdeh.pl",
+  "ipv4": [
+    "154.103.52.52"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf174"
+  },
+  "domain_name": "Ababua.pl",
+  "ipv4": [
+    "165.132.89.119"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf175"
+  },
+  "domain_name": "abac.pl",
+  "ipv4": [
+    "176.161.126.186"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf176"
+  },
+  "domain_name": "abaca.pl",
+  "ipv4": [
+    "187.190.163.253"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf177"
+  },
+  "domain_name": "abacay.pl",
+  "ipv4": [
+    "198.219.200.65"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf178"
+  },
+  "domain_name": "abacas.pl",
+  "ipv4": [
+    "209.248.237.132"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf179"
+  },
+  "domain_name": "abacate.pl",
+  "ipv4": [
+    "220.22.19.199"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17a"
+  },
+  "domain_name": "abacaxi.pl",
+  "ipv4": [
+    "231.51.56.11"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17b"
+  },
+  "domain_name": "abaci.pl",
+  "ipv4": [
+    "242.80.93.78"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17c"
+  },
+  "domain_name": "abacinate.pl",
+  "ipv4": [
+    "253.109.130.145"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17d"
+  },
+  "domain_name": "abacination.pl",
+  "ipv4": [
+    "9.138.167.212"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17e"
+  },
+  "domain_name": "abacisci.pl",
+  "ipv4": [
+    "20.167.204.24"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf17f"
+  },
+  "domain_name": "abaciscus.pl",
+  "ipv4": [
+    "31.196.241.91"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf180"
+  },
+  "domain_name": "abacist.pl",
+  "ipv4": [
+    "42.225.23.158"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf181"
+  },
+  "domain_name": "aback.pl",
+  "ipv4": [
+    "53.254.60.225"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf182"
+  },
+  "domain_name": "abacli.pl",
+  "ipv4": [
+    "64.28.97.37"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf183"
+  },
+  "domain_name": "Abaco.pl",
+  "ipv4": [
+    "75.57.134.104"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf184"
+  },
+  "domain_name": "abacot.pl",
+  "ipv4": [
+    "86.86.171.171"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf185"
+  },
+  "domain_name": "abacterial.pl",
+  "ipv4": [
+    "97.115.208.238"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf186"
+  },
+  "domain_name": "abactinal.pl",
+  "ipv4": [
+    "108.144.245.50"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf187"
+  },
+  "domain_name": "abactinally.pl",
+  "ipv4": [
+    "119.173.27.117"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf188"
+  },
+  "domain_name": "abaction.pl",
+  "ipv4": [
+    "130.202.64.184"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf189"
+  },
+  "domain_name": "abactor.pl",
+  "ipv4": [
+    "141.231.101.251"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18a"
+  },
+  "domain_name": "abaculi.pl",
+  "ipv4": [
+    "152.5.138.63"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18b"
+  },
+  "domain_name": "abaculus.pl",
+  "ipv4": [
+    "163.34.175.130"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18c"
+  },
+  "domain_name": "abacus.pl",
+  "ipv4": [
+    "174.63.212.197"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18d"
+  },
+  "domain_name": "abacuses.pl",
+  "ipv4": [
+    "185.92.249.9"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18e"
+  },
+  "domain_name": "Abad.pl",
+  "ipv4": [
+    "196.121.31.76"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf18f"
+  },
+  "domain_name": "abada.pl",
+  "ipv4": [
+    "207.150.68.143"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf190"
+  },
+  "domain_name": "Abadan.pl",
+  "ipv4": [
+    "218.179.105.210"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf191"
+  },
+  "domain_name": "Abaddon.pl",
+  "ipv4": [
+    "229.208.142.22"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf192"
+  },
+  "domain_name": "abadejo.pl",
+  "ipv4": [
+    "240.237.179.89"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf193"
+  },
+  "domain_name": "abadengo.pl",
+  "ipv4": [
+    "251.11.216.156"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf194"
+  },
+  "domain_name": "abadia.pl",
+  "ipv4": [
+    "7.40.253.223"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf195"
+  },
+  "domain_name": "Abadite.pl",
+  "ipv4": [
+    "18.69.35.35"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf196"
+  },
+  "domain_name": "abaff.pl",
+  "ipv4": [
+    "29.98.72.102"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf197"
+  },
+  "domain_name": "abaft.pl",
+  "ipv4": [
+    "40.127.109.169"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf198"
+  },
+  "domain_name": "Abagael.pl",
+  "ipv4": [
+    "51.156.146.236"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf199"
+  },
+  "domain_name": "Abagail.pl",
+  "ipv4": [
+    "62.185.183.48"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19a"
+  },
+  "domain_name": "Abagtha.pl",
+  "ipv4": [
+    "73.214.220.115"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19b"
+  },
+  "domain_name": "abay.pl",
+  "ipv4": [
+    "84.243.2.182"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19c"
+  },
+  "domain_name": "abayah.pl",
+  "ipv4": [
+    "95.17.39.249"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19d"
+  },
+  "domain_name": "Abailard.pl",
+  "ipv4": [
+    "106.46.76.61"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19e"
+  },
+  "domain_name": "abaisance.pl",
+  "ipv4": [
+    "117.75.113.128"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf19f"
+  },
+  "domain_name": "abaised.pl",
+  "ipv4": [
+    "128.104.150.195"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a0"
+  },
+  "domain_name": "abaiser.pl",
+  "ipv4": [
+    "139.133.187.7"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a1"
+  },
+  "domain_name": "abaisse.pl",
+  "ipv4": [
+    "150.162.224.74"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a2"
+  },
+  "domain_name": "abaissed.pl",
+  "ipv4": [
+    "161.191.6.141"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a3"
+  },
+  "domain_name": "abaka.pl",
+  "ipv4": [
+    "172.220.43.208"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a4"
+  },
+  "domain_name": "Abakan.pl",
+  "ipv4": [
+    "183.249.80.20"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a5"
+  },
+  "domain_name": "abakas.pl",
+  "ipv4": [
+    "194.23.117.87"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a6"
+  },
+  "domain_name": "Abakumov.pl",
+  "ipv4": [
+    "205.52.154.154"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a7"
+  },
+  "domain_name": "abalation.pl",
+  "ipv4": [
+    "216.81.191.221"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a8"
+  },
+  "domain_name": "abalienate.pl",
+  "ipv4": [
+    "227.110.228.33"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1a9"
+  },
+  "domain_name": "abalienated.pl",
+  "ipv4": [
+    "238.139.10.100"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1aa"
+  },
+  "domain_name": "abalienating.pl",
+  "ipv4": [
+    "249.168.47.167"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ab"
+  },
+  "domain_name": "abalienation.pl",
+  "ipv4": [
+    "5.197.84.234"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ac"
+  },
+  "domain_name": "abalone.pl",
+  "ipv4": [
+    "16.226.121.46"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ad"
+  },
+  "domain_name": "abalones.pl",
+  "ipv4": [
+    "27.255.158.113"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ae"
+  },
+  "domain_name": "Abama.pl",
+  "ipv4": [
+    "38.29.195.180"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1af"
+  },
+  "domain_name": "abamp.pl",
+  "ipv4": [
+    "49.58.232.247"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b0"
+  },
+  "domain_name": "abampere.pl",
+  "ipv4": [
+    "60.87.14.59"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b1"
+  },
+  "domain_name": "abamperes.pl",
+  "ipv4": [
+    "71.116.51.126"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b2"
+  },
+  "domain_name": "abamps.pl",
+  "ipv4": [
+    "82.145.88.193"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b3"
+  },
+  "domain_name": "Abana.pl",
+  "ipv4": [
+    "93.174.125.5"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b4"
+  },
+  "domain_name": "aband.pl",
+  "ipv4": [
+    "104.203.162.72"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b5"
+  },
+  "domain_name": "abandon.pl",
+  "ipv4": [
+    "115.232.199.139"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b6"
+  },
+  "domain_name": "abandonable.pl",
+  "ipv4": [
+    "126.6.236.206"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b7"
+  },
+  "domain_name": "abandoned.pl",
+  "ipv4": [
+    "137.35.18.18"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b8"
+  },
+  "domain_name": "abandonedly.pl",
+  "ipv4": [
+    "148.64.55.85"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1b9"
+  },
+  "domain_name": "abandonee.pl",
+  "ipv4": [
+    "159.93.92.152"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ba"
+  },
+  "domain_name": "abandoner.pl",
+  "ipv4": [
+    "170.122.129.219"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1bb"
+  },
+  "domain_name": "abandoners.pl",
+  "ipv4": [
+    "181.151.166.31"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1bc"
+  },
+  "domain_name": "abandoning.pl",
+  "ipv4": [
+    "192.180.203.98"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1bd"
+  },
+  "domain_name": "abandonment.pl",
+  "ipv4": [
+    "203.209.240.165"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1be"
+  },
+  "domain_name": "abandonments.pl",
+  "ipv4": [
+    "214.238.22.232"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1bf"
+  },
+  "domain_name": "abandons.pl",
+  "ipv4": [
+    "225.12.59.44"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c0"
+  },
+  "domain_name": "abandum.pl",
+  "ipv4": [
+    "236.41.96.111"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c1"
+  },
+  "domain_name": "abanet.pl",
+  "ipv4": [
+    "247.70.133.178"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c2"
+  },
+  "domain_name": "abanga.pl",
+  "ipv4": [
+    "3.99.170.245"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c3"
+  },
+  "domain_name": "Abanic.pl",
+  "ipv4": [
+    "14.128.207.57"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c4"
+  },
+  "domain_name": "abannition.pl",
+  "ipv4": [
+    "25.157.244.124"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c5"
+  },
+  "domain_name": "Abantes.pl",
+  "ipv4": [
+    "36.186.26.191"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c6"
+  },
+  "domain_name": "abapical.pl",
+  "ipv4": [
+    "47.215.63.3"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c7"
+  },
+  "domain_name": "abaptiston.pl",
+  "ipv4": [
+    "58.244.100.70"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c8"
+  },
+  "domain_name": "abaptistum.pl",
+  "ipv4": [
+    "69.18.137.137"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1c9"
+  },
+  "domain_name": "Abarambo.pl",
+  "ipv4": [
+    "80.47.174.204"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ca"
+  },
+  "domain_name": "Abarbarea.pl",
+  "ipv4": [
+    "91.76.211.16"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1cb"
+  },
+  "domain_name": "Abaris.pl",
+  "ipv4": [
+    "102.105.248.83"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1cc"
+  },
+  "domain_name": "abarthrosis.pl",
+  "ipv4": [
+    "113.134.30.150"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1cd"
+  },
+  "domain_name": "abarticular.pl",
+  "ipv4": [
+    "124.163.67.217"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ce"
+  },
+  "domain_name": "abarticulation.pl",
+  "ipv4": [
+    "135.192.104.29"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1cf"
+  },
+  "domain_name": "Abas.pl",
+  "ipv4": [
+    "146.221.141.96"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d0"
+  },
+  "domain_name": "abase.pl",
+  "ipv4": [
+    "157.250.178.163"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d1"
+  },
+  "domain_name": "abased.pl",
+  "ipv4": [
+    "168.24.215.230"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d2"
+  },
+  "domain_name": "abasedly.pl",
+  "ipv4": [
+    "179.53.252.42"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d3"
+  },
+  "domain_name": "abasedness.pl",
+  "ipv4": [
+    "190.82.34.109"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d4"
+  },
+  "domain_name": "abasement.pl",
+  "ipv4": [
+    "201.111.71.176"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d5"
+  },
+  "domain_name": "abasements.pl",
+  "ipv4": [
+    "212.140.108.243"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d6"
+  },
+  "domain_name": "abaser.pl",
+  "ipv4": [
+    "223.169.145.55"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d7"
+  },
+  "domain_name": "abasers.pl",
+  "ipv4": [
+    "234.198.182.122"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d8"
+  },
+  "domain_name": "abases.pl",
+  "ipv4": [
+    "245.227.219.189"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1d9"
+  },
+  "domain_name": "Abasgi.pl",
+  "ipv4": [
+    "1.1.1.1"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1da"
+  },
+  "domain_name": "abash.pl",
+  "ipv4": [
+    "12.30.38.68"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1db"
+  },
+  "domain_name": "abashed.pl",
+  "ipv4": [
+    "23.59.75.135"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1dc"
+  },
+  "domain_name": "abashedly.pl",
+  "ipv4": [
+    "34.88.112.202"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1dd"
+  },
+  "domain_name": "abashedness.pl",
+  "ipv4": [
+    "45.117.149.14"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1de"
+  },
+  "domain_name": "abashes.pl",
+  "ipv4": [
+    "56.146.186.81"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1df"
+  },
+  "domain_name": "abashing.pl",
+  "ipv4": [
+    "67.175.223.148"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e0"
+  },
+  "domain_name": "abashless.pl",
+  "ipv4": [
+    "78.204.5.215"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e1"
+  },
+  "domain_name": "abashlessly.pl",
+  "ipv4": [
+    "89.233.42.27"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e2"
+  },
+  "domain_name": "abashment.pl",
+  "ipv4": [
+    "100.7.79.94"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e3"
+  },
+  "domain_name": "abashments.pl",
+  "ipv4": [
+    "111.36.116.161"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e4"
+  },
+  "domain_name": "abasia.pl",
+  "ipv4": [
+    "122.65.153.228"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e5"
+  },
+  "domain_name": "abasias.pl",
+  "ipv4": [
+    "133.94.190.40"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e6"
+  },
+  "domain_name": "abasic.pl",
+  "ipv4": [
+    "144.123.227.107"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e7"
+  },
+  "domain_name": "abasing.pl",
+  "ipv4": [
+    "155.152.9.174"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e8"
+  },
+  "domain_name": "abasio.pl",
+  "ipv4": [
+    "166.181.46.241"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1e9"
+  },
+  "domain_name": "abask.pl",
+  "ipv4": [
+    "177.210.83.53"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ea"
+  },
+  "domain_name": "abassi.pl",
+  "ipv4": [
+    "188.239.120.120"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1eb"
+  },
+  "domain_name": "Abassieh.pl",
+  "ipv4": [
+    "199.13.157.187"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ec"
+  },
+  "domain_name": "Abassin.pl",
+  "ipv4": [
+    "210.42.194.254"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ed"
+  },
+  "domain_name": "abastard.pl",
+  "ipv4": [
+    "221.71.231.66"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ee"
+  },
+  "domain_name": "abastardize.pl",
+  "ipv4": [
+    "232.100.13.133"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ef"
+  },
+  "domain_name": "abastral.pl",
+  "ipv4": [
+    "243.129.50.200"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f0"
+  },
+  "domain_name": "abatable.pl",
+  "ipv4": [
+    "254.158.87.12"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f1"
+  },
+  "domain_name": "abatage.pl",
+  "ipv4": [
+    "10.187.124.79"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f2"
+  },
+  "domain_name": "Abate.pl",
+  "ipv4": [
+    "21.216.161.146"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f3"
+  },
+  "domain_name": "abated.pl",
+  "ipv4": [
+    "32.245.198.213"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f4"
+  },
+  "domain_name": "abatement.pl",
+  "ipv4": [
+    "43.19.235.25"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f5"
+  },
+  "domain_name": "abatements.pl",
+  "ipv4": [
+    "54.48.17.92"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f6"
+  },
+  "domain_name": "abater.pl",
+  "ipv4": [
+    "65.77.54.159"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f7"
+  },
+  "domain_name": "abaters.pl",
+  "ipv4": [
+    "76.106.91.226"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f8"
+  },
+  "domain_name": "abates.pl",
+  "ipv4": [
+    "87.135.128.38"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1f9"
+  },
+  "domain_name": "abatic.pl",
+  "ipv4": [
+    "98.164.165.105"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1fa"
+  },
+  "domain_name": "abating.pl",
+  "ipv4": [
+    "109.193.202.172"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1fb"
+  },
+  "domain_name": "abatis.pl",
+  "ipv4": [
+    "120.222.239.239"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1fc"
+  },
+  "domain_name": "abatised.pl",
+  "ipv4": [
+    "131.251.21.51"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1fd"
+  },
+  "domain_name": "abatises.pl",
+  "ipv4": [
+    "142.25.58.118"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1fe"
+  },
+  "domain_name": "abatjour.pl",
+  "ipv4": [
+    "153.54.95.185"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf1ff"
+  },
+  "domain_name": "abatjours.pl",
+  "ipv4": [
+    "164.83.132.252"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf200"
+  },
+  "domain_name": "abaton.pl",
+  "ipv4": [
+    "175.112.169.64"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf201"
+  },
+  "domain_name": "abator.pl",
+  "ipv4": [
+    "186.141.206.131"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf202"
+  },
+  "domain_name": "abators.pl",
+  "ipv4": [
+    "197.170.243.198"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf203"
+  },
+  "domain_name": "ABATS.pl",
+  "ipv4": [
+    "208.199.25.10"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf204"
+  },
+  "domain_name": "abattage.pl",
+  "ipv4": [
+    "219.228.62.77"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf205"
+  },
+  "domain_name": "abattis.pl",
+  "ipv4": [
+    "230.2.99.144"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf206"
+  },
+  "domain_name": "abattised.pl",
+  "ipv4": [
+    "241.31.136.211"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf207"
+  },
+  "domain_name": "abattises.pl",
+  "ipv4": [
+    "252.60.173.23"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf208"
+  },
+  "domain_name": "abattoir.pl",
+  "ipv4": [
+    "8.89.210.90"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf209"
+  },
+  "domain_name": "abattoirs.pl",
+  "ipv4": [
+    "19.118.247.157"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20a"
+  },
+  "domain_name": "abattu.pl",
+  "ipv4": [
+    "30.147.29.224"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20b"
+  },
+  "domain_name": "abattue.pl",
+  "ipv4": [
+    "41.176.66.36"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20c"
+  },
+  "domain_name": "Abatua.pl",
+  "ipv4": [
+    "52.205.103.103"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20d"
+  },
+  "domain_name": "abature.pl",
+  "ipv4": [
+    "63.234.140.170"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20e"
+  },
+  "domain_name": "abaue.pl",
+  "ipv4": [
+    "74.8.177.237"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf20f"
+  },
+  "domain_name": "abave.pl",
+  "ipv4": [
+    "85.37.214.49"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf210"
+  },
+  "domain_name": "abaxial.pl",
+  "ipv4": [
+    "96.66.251.116"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf211"
+  },
+  "domain_name": "abaxile.pl",
+  "ipv4": [
+    "107.95.33.183"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf212"
+  },
+  "domain_name": "abaze.pl",
+  "ipv4": [
+    "118.124.70.250"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf213"
+  },
+  "domain_name": "abb.pl",
+  "ipv4": [
+    "129.153.107.62"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf214"
+  },
+  "domain_name": "Abba.pl",
+  "ipv4": [
+    "140.182.144.129"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf215"
+  },
+  "domain_name": "abbacy.pl",
+  "ipv4": [
+    "151.211.181.196"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf216"
+  },
+  "domain_name": "abbacies.pl",
+  "ipv4": [
+    "162.240.218.8"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf217"
+  },
+  "domain_name": "abbacomes.pl",
+  "ipv4": [
+    "173.14.255.75"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf218"
+  },
+  "domain_name": "Abbadide.pl",
+  "ipv4": [
+    "184.43.37.142"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf219"
+  },
+  "domain_name": "Abbai.pl",
+  "ipv4": [
+    "195.72.74.209"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21a"
+  },
+  "domain_name": "abbaye.pl",
+  "ipv4": [
+    "206.101.111.21"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21b"
+  },
+  "domain_name": "abbandono.pl",
+  "ipv4": [
+    "217.130.148.88"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21c"
+  },
+  "domain_name": "abbas.pl",
+  "ipv4": [
+    "228.159.185.155"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21d"
+  },
+  "domain_name": "abbasi.pl",
+  "ipv4": [
+    "239.188.222.222"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21e"
+  },
+  "domain_name": "Abbasid.pl",
+  "ipv4": [
+    "250.217.4.34"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf21f"
+  },
+  "domain_name": "abbassi.pl",
+  "ipv4": [
+    "6.246.41.101"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf220"
+  },
+  "domain_name": "Abbassid.pl",
+  "ipv4": [
+    "17.20.78.168"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf221"
+  },
+  "domain_name": "Abbasside.pl",
+  "ipv4": [
+    "28.49.115.235"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf222"
+  },
+  "domain_name": "Abbate.pl",
+  "ipv4": [
+    "39.78.152.47"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf223"
+  },
+  "domain_name": "abbatial.pl",
+  "ipv4": [
+    "50.107.189.114"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf224"
+  },
+  "domain_name": "abbatical.pl",
+  "ipv4": [
+    "61.136.226.181"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf225"
+  },
+  "domain_name": "abbatie.pl",
+  "ipv4": [
+    "72.165.8.248"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf226"
+  },
+  "domain_name": "Abbe.pl",
+  "ipv4": [
+    "83.194.45.60"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf227"
+  },
+  "domain_name": "Abbey.pl",
+  "ipv4": [
+    "94.223.82.127"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf228"
+  },
+  "domain_name": "abbeys.pl",
+  "ipv4": [
+    "105.252.119.194"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf229"
+  },
+  "domain_name": "abbey's.pl",
+  "ipv4": [
+    "116.26.156.6"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22a"
+  },
+  "domain_name": "abbeystead.pl",
+  "ipv4": [
+    "127.55.193.73"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22b"
+  },
+  "domain_name": "abbeystede.pl",
+  "ipv4": [
+    "138.84.230.140"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22c"
+  },
+  "domain_name": "abbes.pl",
+  "ipv4": [
+    "149.113.12.207"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22d"
+  },
+  "domain_name": "abbess.pl",
+  "ipv4": [
+    "160.142.49.19"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22e"
+  },
+  "domain_name": "abbesses.pl",
+  "ipv4": [
+    "171.171.86.86"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf22f"
+  },
+  "domain_name": "abbest.pl",
+  "ipv4": [
+    "182.200.123.153"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf230"
+  },
+  "domain_name": "Abbevilean.pl",
+  "ipv4": [
+    "193.229.160.220"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf231"
+  },
+  "domain_name": "Abbeville.pl",
+  "ipv4": [
+    "204.3.197.32"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf232"
+  },
+  "domain_name": "Abbevillian.pl",
+  "ipv4": [
+    "215.32.234.99"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf233"
+  },
+  "domain_name": "Abbi.pl",
+  "ipv4": [
+    "226.61.16.166"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf234"
+  },
+  "domain_name": "Abby.pl",
+  "ipv4": [
+    "237.90.53.233"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf235"
+  },
+  "domain_name": "Abbie.pl",
+  "ipv4": [
+    "248.119.90.45"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf236"
+  },
+  "domain_name": "Abbye.pl",
+  "ipv4": [
+    "4.148.127.112"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf237"
+  },
+  "domain_name": "Abbyville.pl",
+  "ipv4": [
+    "15.177.164.179"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf238"
+  },
+  "domain_name": "abboccato.pl",
+  "ipv4": [
+    "26.206.201.246"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf239"
+  },
+  "domain_name": "abbogada.pl",
+  "ipv4": [
+    "37.235.238.58"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23a"
+  },
+  "domain_name": "Abbot.pl",
+  "ipv4": [
+    "48.9.20.125"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23b"
+  },
+  "domain_name": "abbotcy.pl",
+  "ipv4": [
+    "59.38.57.192"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23c"
+  },
+  "domain_name": "abbotcies.pl",
+  "ipv4": [
+    "70.67.94.4"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23d"
+  },
+  "domain_name": "abbotnullius.pl",
+  "ipv4": [
+    "81.96.131.71"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23e"
+  },
+  "domain_name": "abbotric.pl",
+  "ipv4": [
+    "92.125.168.138"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf23f"
+  },
+  "domain_name": "abbots.pl",
+  "ipv4": [
+    "103.154.205.205"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf240"
+  },
+  "domain_name": "abbot's.pl",
+  "ipv4": [
+    "114.183.242.17"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf241"
+  },
+  "domain_name": "Abbotsen.pl",
+  "ipv4": [
+    "125.212.24.84"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf242"
+  },
+  "domain_name": "Abbotsford.pl",
+  "ipv4": [
+    "136.241.61.151"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf243"
+  },
+  "domain_name": "abbotship.pl",
+  "ipv4": [
+    "147.15.98.218"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf244"
+  },
+  "domain_name": "abbotships.pl",
+  "ipv4": [
+    "158.44.135.30"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf245"
+  },
+  "domain_name": "Abbotson.pl",
+  "ipv4": [
+    "169.73.172.97"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf246"
+  },
+  "domain_name": "Abbotsun.pl",
+  "ipv4": [
+    "180.102.209.164"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf247"
+  },
+  "domain_name": "Abbott.pl",
+  "ipv4": [
+    "191.131.246.231"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf248"
+  },
+  "domain_name": "Abbottson.pl",
+  "ipv4": [
+    "202.160.28.43"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf249"
+  },
+  "domain_name": "Abbottstown.pl",
+  "ipv4": [
+    "213.189.65.110"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24a"
+  },
+  "domain_name": "Abboud.pl",
+  "ipv4": [
+    "224.218.102.177"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24b"
+  },
+  "domain_name": "abbozzo.pl",
+  "ipv4": [
+    "235.247.139.244"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24c"
+  },
+  "domain_name": "ABBR.pl",
+  "ipv4": [
+    "246.21.176.56"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24d"
+  },
+  "domain_name": "abbrev.pl",
+  "ipv4": [
+    "2.50.213.123"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24e"
+  },
+  "domain_name": "abbreviatable.pl",
+  "ipv4": [
+    "13.79.250.190"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf24f"
+  },
+  "domain_name": "abbreviate.pl",
+  "ipv4": [
+    "24.108.32.2"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf250"
+  },
+  "domain_name": "abbreviated.pl",
+  "ipv4": [
+    "35.137.69.69"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf251"
+  },
+  "domain_name": "abbreviately.pl",
+  "ipv4": [
+    "46.166.106.136"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf252"
+  },
+  "domain_name": "abbreviates.pl",
+  "ipv4": [
+    "57.195.143.203"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf253"
+  },
+  "domain_name": "abbreviating.pl",
+  "ipv4": [
+    "68.224.180.15"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf254"
+  },
+  "domain_name": "abbreviation.pl",
+  "ipv4": [
+    "79.253.217.82"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf255"
+  },
+  "domain_name": "abbreviations.pl",
+  "ipv4": [
+    "90.27.254.149"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf256"
+  },
+  "domain_name": "abbreviator.pl",
+  "ipv4": [
+    "101.56.36.216"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf257"
+  },
+  "domain_name": "abbreviatory.pl",
+  "ipv4": [
+    "112.85.73.28"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf258"
+  },
+  "domain_name": "abbreviators.pl",
+  "ipv4": [
+    "123.114.110.95"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf259"
+  },
+  "domain_name": "abbreviature.pl",
+  "ipv4": [
+    "134.143.147.162"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25a"
+  },
+  "domain_name": "abbroachment.pl",
+  "ipv4": [
+    "145.172.184.229"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25b"
+  },
+  "domain_name": "ABC.pl",
+  "ipv4": [
+    "156.201.221.41"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25c"
+  },
+  "domain_name": "abcess.pl",
+  "ipv4": [
+    "167.230.3.108"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25d"
+  },
+  "domain_name": "abcissa.pl",
+  "ipv4": [
+    "178.4.40.175"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25e"
+  },
+  "domain_name": "abcoulomb.pl",
+  "ipv4": [
+    "189.33.77.242"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf25f"
+  },
+  "domain_name": "ABCs.pl",
+  "ipv4": [
+    "200.62.114.54"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf260"
+  },
+  "domain_name": "abd.pl",
+  "ipv4": [
+    "211.91.151.121"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf261"
+  },
+  "domain_name": "abdal.pl",
+  "ipv4": [
+    "222.120.188.188"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf262"
+  },
+  "domain_name": "abdali.pl",
+  "ipv4": [
+    "233.149.225.255"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf263"
+  },
+  "domain_name": "abdaria.pl",
+  "ipv4": [
+    "244.178.7.67"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf264"
+  },
+  "domain_name": "abdat.pl",
+  "ipv4": [
+    "255.207.44.134"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf265"
+  },
+  "domain_name": "Abdel.pl",
+  "ipv4": [
+    "11.236.81.201"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf266"
+  },
+  "domain_name": "Abd-el-Kadir.pl",
+  "ipv4": [
+    "22.10.118.13"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf267"
+  },
+  "domain_name": "Abd-el-Krim.pl",
+  "ipv4": [
+    "33.39.155.80"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf268"
+  },
+  "domain_name": "Abdella.pl",
+  "ipv4": [
+    "44.68.192.147"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf269"
+  },
+  "domain_name": "Abderhalden.pl",
+  "ipv4": [
+    "55.97.229.214"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26a"
+  },
+  "domain_name": "Abderian.pl",
+  "ipv4": [
+    "66.126.11.26"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26b"
+  },
+  "domain_name": "Abderite.pl",
+  "ipv4": [
+    "77.155.48.93"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26c"
+  },
+  "domain_name": "Abderus.pl",
+  "ipv4": [
+    "88.184.85.160"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26d"
+  },
+  "domain_name": "abdest.pl",
+  "ipv4": [
+    "99.213.122.227"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26e"
+  },
+  "domain_name": "Abdias.pl",
+  "ipv4": [
+    "110.242.159.39"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf26f"
+  },
+  "domain_name": "abdicable.pl",
+  "ipv4": [
+    "121.16.196.106"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf270"
+  },
+  "domain_name": "abdicant.pl",
+  "ipv4": [
+    "132.45.233.173"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf271"
+  },
+  "domain_name": "abdicate.pl",
+  "ipv4": [
+    "143.74.15.240"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf272"
+  },
+  "domain_name": "abdicated.pl",
+  "ipv4": [
+    "154.103.52.52"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf273"
+  },
+  "domain_name": "abdicates.pl",
+  "ipv4": [
+    "165.132.89.119"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf274"
+  },
+  "domain_name": "abdicating.pl",
+  "ipv4": [
+    "176.161.126.186"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf275"
+  },
+  "domain_name": "abdication.pl",
+  "ipv4": [
+    "187.190.163.253"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf276"
+  },
+  "domain_name": "abdications.pl",
+  "ipv4": [
+    "198.219.200.65"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf277"
+  },
+  "domain_name": "abdicative.pl",
+  "ipv4": [
+    "209.248.237.132"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf278"
+  },
+  "domain_name": "abdicator.pl",
+  "ipv4": [
+    "220.22.19.199"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf279"
+  },
+  "domain_name": "Abdiel.pl",
+  "ipv4": [
+    "231.51.56.11"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27a"
+  },
+  "domain_name": "abditive.pl",
+  "ipv4": [
+    "242.80.93.78"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27b"
+  },
+  "domain_name": "abditory.pl",
+  "ipv4": [
+    "253.109.130.145"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27c"
+  },
+  "domain_name": "abdom.pl",
+  "ipv4": [
+    "9.138.167.212"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27d"
+  },
+  "domain_name": "abdomen.pl",
+  "ipv4": [
+    "20.167.204.24"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27e"
+  },
+  "domain_name": "abdomens.pl",
+  "ipv4": [
+    "31.196.241.91"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf27f"
+  },
+  "domain_name": "abdomen's.pl",
+  "ipv4": [
+    "42.225.23.158"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf280"
+  },
+  "domain_name": "abdomina.pl",
+  "ipv4": [
+    "53.254.60.225"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf281"
+  },
+  "domain_name": "abdominal.pl",
+  "ipv4": [
+    "64.28.97.37"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf282"
+  },
+  "domain_name": "Abdominales.pl",
+  "ipv4": [
+    "75.57.134.104"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf283"
+  },
+  "domain_name": "abdominalia.pl",
+  "ipv4": [
+    "86.86.171.171"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf284"
+  },
+  "domain_name": "abdominalian.pl",
+  "ipv4": [
+    "97.115.208.238"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf285"
+  },
+  "domain_name": "abdominally.pl",
+  "ipv4": [
+    "108.144.245.50"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf286"
+  },
+  "domain_name": "abdominals.pl",
+  "ipv4": [
+    "119.173.27.117"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf287"
+  },
+  "domain_name": "abdominoanterior.pl",
+  "ipv4": [
+    "130.202.64.184"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf288"
+  },
+  "domain_name": "abdominocardiac.pl",
+  "ipv4": [
+    "141.231.101.251"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf289"
+  },
+  "domain_name": "abdominocentesis.pl",
+  "ipv4": [
+    "152.5.138.63"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28a"
+  },
+  "domain_name": "abdominocystic.pl",
+  "ipv4": [
+    "163.34.175.130"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28b"
+  },
+  "domain_name": "abdominogenital.pl",
+  "ipv4": [
+    "174.63.212.197"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28c"
+  },
+  "domain_name": "abdominohysterectomy.pl",
+  "ipv4": [
+    "185.92.249.9"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28d"
+  },
+  "domain_name": "abdominohysterotomy.pl",
+  "ipv4": [
+    "196.121.31.76"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28e"
+  },
+  "domain_name": "abdominoposterior.pl",
+  "ipv4": [
+    "207.150.68.143"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf28f"
+  },
+  "domain_name": "abdominoscope.pl",
+  "ipv4": [
+    "218.179.105.210"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf290"
+  },
+  "domain_name": "abdominoscopy.pl",
+  "ipv4": [
+    "229.208.142.22"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf291"
+  },
+  "domain_name": "abdominothoracic.pl",
+  "ipv4": [
+    "240.237.179.89"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf292"
+  },
+  "domain_name": "abdominous.pl",
+  "ipv4": [
+    "251.11.216.156"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf293"
+  },
+  "domain_name": "abdomino-uterotomy.pl",
+  "ipv4": [
+    "7.40.253.223"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf294"
+  },
+  "domain_name": "abdominovaginal.pl",
+  "ipv4": [
+    "18.69.35.35"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf295"
+  },
+  "domain_name": "abdominovesical.pl",
+  "ipv4": [
+    "29.98.72.102"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf296"
+  },
+  "domain_name": "Abdon.pl",
+  "ipv4": [
+    "40.127.109.169"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf297"
+  },
+  "domain_name": "Abdu.pl",
+  "ipv4": [
+    "51.156.146.236"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf298"
+  },
+  "domain_name": "abduce.pl",
+  "ipv4": [
+    "62.185.183.48"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf299"
+  },
+  "domain_name": "abduced.pl",
+  "ipv4": [
+    "73.214.220.115"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29a"
+  },
+  "domain_name": "abducens.pl",
+  "ipv4": [
+    "84.243.2.182"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29b"
+  },
+  "domain_name": "abducent.pl",
+  "ipv4": [
+    "95.17.39.249"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29c"
+  },
+  "domain_name": "abducentes.pl",
+  "ipv4": [
+    "106.46.76.61"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29d"
+  },
+  "domain_name": "abduces.pl",
+  "ipv4": [
+    "117.75.113.128"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29e"
+  },
+  "domain_name": "abducing.pl",
+  "ipv4": [
+    "128.104.150.195"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf29f"
+  },
+  "domain_name": "abduct.pl",
+  "ipv4": [
+    "139.133.187.7"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a0"
+  },
+  "domain_name": "abducted.pl",
+  "ipv4": [
+    "150.162.224.74"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a1"
+  },
+  "domain_name": "abducting.pl",
+  "ipv4": [
+    "161.191.6.141"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a2"
+  },
+  "domain_name": "abduction.pl",
+  "ipv4": [
+    "172.220.43.208"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a3"
+  },
+  "domain_name": "abductions.pl",
+  "ipv4": [
+    "183.249.80.20"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a4"
+  },
+  "domain_name": "abduction's.pl",
+  "ipv4": [
+    "194.23.117.87"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a5"
+  },
+  "domain_name": "abductor.pl",
+  "ipv4": [
+    "205.52.154.154"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a6"
+  },
+  "domain_name": "abductores.pl",
+  "ipv4": [
+    "216.81.191.221"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a7"
+  },
+  "domain_name": "abductors.pl",
+  "ipv4": [
+    "227.110.228.33"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a8"
+  },
+  "domain_name": "abductor's.pl",
+  "ipv4": [
+    "238.139.10.100"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2a9"
+  },
+  "domain_name": "abducts.pl",
+  "ipv4": [
+    "249.168.47.167"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2aa"
+  },
+  "domain_name": "Abdul.pl",
+  "ipv4": [
+    "5.197.84.234"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ab"
+  },
+  "domain_name": "Abdul-Aziz.pl",
+  "ipv4": [
+    "16.226.121.46"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ac"
+  },
+  "domain_name": "Abdul-baha.pl",
+  "ipv4": [
+    "27.255.158.113"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ad"
+  },
+  "domain_name": "Abdulla.pl",
+  "ipv4": [
+    "38.29.195.180"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ae"
+  },
+  "domain_name": "Abe.pl",
+  "ipv4": [
+    "49.58.232.247"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2af"
+  },
+  "domain_name": "a-be.pl",
+  "ipv4": [
+    "60.87.14.59"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b0"
+  },
+  "domain_name": "abeam.pl",
+  "ipv4": [
+    "71.116.51.126"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b1"
+  },
+  "domain_name": "abear.pl",
+  "ipv4": [
+    "82.145.88.193"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b2"
+  },
+  "domain_name": "abearance.pl",
+  "ipv4": [
+    "93.174.125.5"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b3"
+  },
+  "domain_name": "Abebi.pl",
+  "ipv4": [
+    "104.203.162.72"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b4"
+  },
+  "domain_name": "abecedaire.pl",
+  "ipv4": [
+    "115.232.199.139"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b5"
+  },
+  "domain_name": "abecedary.pl",
+  "ipv4": [
+    "126.6.236.206"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b6"
+  },
+  "domain_name": "abecedaria.pl",
+  "ipv4": [
+    "137.35.18.18"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b7"
+  },
+  "domain_name": "abecedarian.pl",
+  "ipv4": [
+    "148.64.55.85"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b8"
+  },
+  "domain_name": "abecedarians.pl",
+  "ipv4": [
+    "159.93.92.152"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2b9"
+  },
+  "domain_name": "abecedaries.pl",
+  "ipv4": [
+    "170.122.129.219"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ba"
+  },
+  "domain_name": "abecedarium.pl",
+  "ipv4": [
+    "181.151.166.31"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2bb"
+  },
+  "domain_name": "abecedarius.pl",
+  "ipv4": [
+    "192.180.203.98"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2bc"
+  },
+  "domain_name": "abed.pl",
+  "ipv4": [
+    "203.209.240.165"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2bd"
+  },
+  "domain_name": "abede.pl",
+  "ipv4": [
+    "214.238.22.232"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2be"
+  },
+  "domain_name": "abedge.pl",
+  "ipv4": [
+    "225.12.59.44"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2bf"
+  },
+  "domain_name": "Abednego.pl",
+  "ipv4": [
+    "236.41.96.111"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c0"
+  },
+  "domain_name": "abegge.pl",
+  "ipv4": [
+    "247.70.133.178"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c1"
+  },
+  "domain_name": "Abey.pl",
+  "ipv4": [
+    "3.99.170.245"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c2"
+  },
+  "domain_name": "abeyance.pl",
+  "ipv4": [
+    "14.128.207.57"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c3"
+  },
+  "domain_name": "abeyances.pl",
+  "ipv4": [
+    "25.157.244.124"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c4"
+  },
+  "domain_name": "abeyancy.pl",
+  "ipv4": [
+    "36.186.26.191"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c5"
+  },
+  "domain_name": "abeyancies.pl",
+  "ipv4": [
+    "47.215.63.3"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c6"
+  },
+  "domain_name": "abeyant.pl",
+  "ipv4": [
+    "58.244.100.70"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c7"
+  },
+  "domain_name": "abeigh.pl",
+  "ipv4": [
+    "69.18.137.137"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c8"
+  },
+  "domain_name": "ABEL.pl",
+  "ipv4": [
+    "80.47.174.204"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2c9"
+  },
+  "domain_name": "Abelard.pl",
+  "ipv4": [
+    "91.76.211.16"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ca"
+  },
+  "domain_name": "abele.pl",
+  "ipv4": [
+    "102.105.248.83"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2cb"
+  },
+  "domain_name": "abeles.pl",
+  "ipv4": [
+    "113.134.30.150"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2cc"
+  },
+  "domain_name": "Abelia.pl",
+  "ipv4": [
+    "124.163.67.217"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2cd"
+  },
+  "domain_name": "Abelian.pl",
+  "ipv4": [
+    "135.192.104.29"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ce"
+  },
+  "domain_name": "Abelicea.pl",
+  "ipv4": [
+    "146.221.141.96"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2cf"
+  },
+  "domain_name": "Abelite.pl",
+  "ipv4": [
+    "157.250.178.163"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d0"
+  },
+  "domain_name": "Abell.pl",
+  "ipv4": [
+    "168.24.215.230"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d1"
+  },
+  "domain_name": "Abelmoschus.pl",
+  "ipv4": [
+    "179.53.252.42"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d2"
+  },
+  "domain_name": "abelmosk.pl",
+  "ipv4": [
+    "190.82.34.109"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d3"
+  },
+  "domain_name": "abelmosks.pl",
+  "ipv4": [
+    "201.111.71.176"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d4"
+  },
+  "domain_name": "abelmusk.pl",
+  "ipv4": [
+    "212.140.108.243"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d5"
+  },
+  "domain_name": "Abelonian.pl",
+  "ipv4": [
+    "223.169.145.55"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d6"
+  },
+  "domain_name": "Abelson.pl",
+  "ipv4": [
+    "234.198.182.122"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d7"
+  },
+  "domain_name": "abeltree.pl",
+  "ipv4": [
+    "245.227.219.189"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d8"
+  },
+  "domain_name": "Abencerrages.pl",
+  "ipv4": [
+    "1.1.1.1"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2d9"
+  },
+  "domain_name": "abend.pl",
+  "ipv4": [
+    "12.30.38.68"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2da"
+  },
+  "domain_name": "abends.pl",
+  "ipv4": [
+    "23.59.75.135"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2db"
+  },
+  "domain_name": "Abenezra.pl",
+  "ipv4": [
+    "34.88.112.202"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2dc"
+  },
+  "domain_name": "abenteric.pl",
+  "ipv4": [
+    "45.117.149.14"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2dd"
+  },
+  "domain_name": "Abeokuta.pl",
+  "ipv4": [
+    "56.146.186.81"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2de"
+  },
+  "domain_name": "abepithymia.pl",
+  "ipv4": [
+    "67.175.223.148"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2df"
+  },
+  "domain_name": "ABEPP.pl",
+  "ipv4": [
+    "78.204.5.215"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e0"
+  },
+  "domain_name": "Abercromby.pl",
+  "ipv4": [
+    "89.233.42.27"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e1"
+  },
+  "domain_name": "Abercrombie.pl",
+  "ipv4": [
+    "100.7.79.94"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e2"
+  },
+  "domain_name": "Aberdare.pl",
+  "ipv4": [
+    "111.36.116.161"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e3"
+  },
+  "domain_name": "aberdavine.pl",
+  "ipv4": [
+    "122.65.153.228"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e4"
+  },
+  "domain_name": "Aberdeen.pl",
+  "ipv4": [
+    "133.94.190.40"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e5"
+  },
+  "domain_name": "Aberdeenshire.pl",
+  "ipv4": [
+    "144.123.227.107"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e6"
+  },
+  "domain_name": "aberdevine.pl",
+  "ipv4": [
+    "155.152.9.174"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e7"
+  },
+  "domain_name": "Aberdonian.pl",
+  "ipv4": [
+    "166.181.46.241"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e8"
+  },
+  "domain_name": "aberduvine.pl",
+  "ipv4": [
+    "177.210.83.53"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2e9"
+  },
+  "domain_name": "Aberfan.pl",
+  "ipv4": [
+    "188.239.120.120"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ea"
+  },
+  "domain_name": "Aberglaube.pl",
+  "ipv4": [
+    "199.13.157.187"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2eb"
+  },
+  "domain_name": "Aberia.pl",
+  "ipv4": [
+    "210.42.194.254"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ec"
+  },
+  "domain_name": "Aberystwyth.pl",
+  "ipv4": [
+    "221.71.231.66"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ed"
+  },
+  "domain_name": "Abernant.pl",
+  "ipv4": [
+    "232.100.13.133"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ee"
+  },
+  "domain_name": "Abernathy.pl",
+  "ipv4": [
+    "243.129.50.200"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ef"
+  },
+  "domain_name": "abernethy.pl",
+  "ipv4": [
+    "254.158.87.12"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f0"
+  },
+  "domain_name": "Abernon.pl",
+  "ipv4": [
+    "10.187.124.79"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f1"
+  },
+  "domain_name": "aberr.pl",
+  "ipv4": [
+    "21.216.161.146"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f2"
+  },
+  "domain_name": "aberrance.pl",
+  "ipv4": [
+    "32.245.198.213"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f3"
+  },
+  "domain_name": "aberrancy.pl",
+  "ipv4": [
+    "43.19.235.25"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f4"
+  },
+  "domain_name": "aberrancies.pl",
+  "ipv4": [
+    "54.48.17.92"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f5"
+  },
+  "domain_name": "aberrant.pl",
+  "ipv4": [
+    "65.77.54.159"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f6"
+  },
+  "domain_name": "aberrantly.pl",
+  "ipv4": [
+    "76.106.91.226"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f7"
+  },
+  "domain_name": "aberrants.pl",
+  "ipv4": [
+    "87.135.128.38"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f8"
+  },
+  "domain_name": "aberrate.pl",
+  "ipv4": [
+    "98.164.165.105"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2f9"
+  },
+  "domain_name": "aberrated.pl",
+  "ipv4": [
+    "109.193.202.172"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2fa"
+  },
+  "domain_name": "aberrating.pl",
+  "ipv4": [
+    "120.222.239.239"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2fb"
+  },
+  "domain_name": "aberration.pl",
+  "ipv4": [
+    "131.251.21.51"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2fc"
+  },
+  "domain_name": "aberrational.pl",
+  "ipv4": [
+    "142.25.58.118"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2fd"
+  },
+  "domain_name": "aberrations.pl",
+  "ipv4": [
+    "153.54.95.185"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2fe"
+  },
+  "domain_name": "aberrative.pl",
+  "ipv4": [
+    "164.83.132.252"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf2ff"
+  },
+  "domain_name": "aberrator.pl",
+  "ipv4": [
+    "175.112.169.64"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf300"
+  },
+  "domain_name": "aberrometer.pl",
+  "ipv4": [
+    "186.141.206.131"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf301"
+  },
+  "domain_name": "aberroscope.pl",
+  "ipv4": [
+    "197.170.243.198"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf302"
+  },
+  "domain_name": "Abert.pl",
+  "ipv4": [
+    "208.199.25.10"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf303"
+  },
+  "domain_name": "aberuncate.pl",
+  "ipv4": [
+    "219.228.62.77"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf304"
+  },
+  "domain_name": "aberuncator.pl",
+  "ipv4": [
+    "230.2.99.144"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf305"
+  },
+  "domain_name": "abesse.pl",
+  "ipv4": [
+    "241.31.136.211"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf306"
+  },
+  "domain_name": "abessive.pl",
+  "ipv4": [
+    "252.60.173.23"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf307"
+  },
+  "domain_name": "abet.pl",
+  "ipv4": [
+    "8.89.210.90"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf308"
+  },
+  "domain_name": "abetment.pl",
+  "ipv4": [
+    "19.118.247.157"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf309"
+  },
+  "domain_name": "abetments.pl",
+  "ipv4": [
+    "30.147.29.224"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30a"
+  },
+  "domain_name": "abets.pl",
+  "ipv4": [
+    "41.176.66.36"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30b"
+  },
+  "domain_name": "abettal.pl",
+  "ipv4": [
+    "52.205.103.103"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30c"
+  },
+  "domain_name": "abettals.pl",
+  "ipv4": [
+    "63.234.140.170"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30d"
+  },
+  "domain_name": "abetted.pl",
+  "ipv4": [
+    "74.8.177.237"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30e"
+  },
+  "domain_name": "abetter.pl",
+  "ipv4": [
+    "85.37.214.49"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf30f"
+  },
+  "domain_name": "abetters.pl",
+  "ipv4": [
+    "96.66.251.116"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf310"
+  },
+  "domain_name": "abetting.pl",
+  "ipv4": [
+    "107.95.33.183"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf311"
+  },
+  "domain_name": "abettor.pl",
+  "ipv4": [
+    "118.124.70.250"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf312"
+  },
+  "domain_name": "abettors.pl",
+  "ipv4": [
+    "129.153.107.62"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf313"
+  },
+  "domain_name": "Abeu.pl",
+  "ipv4": [
+    "140.182.144.129"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf314"
+  },
+  "domain_name": "abevacuation.pl",
+  "ipv4": [
+    "151.211.181.196"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf315"
+  },
+  "domain_name": "abfarad.pl",
+  "ipv4": [
+    "162.240.218.8"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf316"
+  },
+  "domain_name": "abfarads.pl",
+  "ipv4": [
+    "173.14.255.75"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf317"
+  },
+  "domain_name": "ABFM.pl",
+  "ipv4": [
+    "184.43.37.142"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf318"
+  },
+  "domain_name": "Abgatha.pl",
+  "ipv4": [
+    "195.72.74.209"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf319"
+  },
+  "domain_name": "ABHC.pl",
+  "ipv4": [
+    "206.101.111.21"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31a"
+  },
+  "domain_name": "abhenry.pl",
+  "ipv4": [
+    "217.130.148.88"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31b"
+  },
+  "domain_name": "abhenries.pl",
+  "ipv4": [
+    "228.159.185.155"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31c"
+  },
+  "domain_name": "abhenrys.pl",
+  "ipv4": [
+    "239.188.222.222"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31d"
+  },
+  "domain_name": "abhinaya.pl",
+  "ipv4": [
+    "250.217.4.34"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31e"
+  },
+  "domain_name": "abhiseka.pl",
+  "ipv4": [
+    "6.246.41.101"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf31f"
+  },
+  "domain_name": "abhominable.pl",
+  "ipv4": [
+    "17.20.78.168"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf320"
+  },
+  "domain_name": "abhor.pl",
+  "ipv4": [
+    "28.49.115.235"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf321"
+  },
+  "domain_name": "abhorred.pl",
+  "ipv4": [
+    "39.78.152.47"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf322"
+  },
+  "domain_name": "abhorrence.pl",
+  "ipv4": [
+    "50.107.189.114"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf323"
+  },
+  "domain_name": "abhorrences.pl",
+  "ipv4": [
+    "61.136.226.181"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf324"
+  },
+  "domain_name": "abhorrency.pl",
+  "ipv4": [
+    "72.165.8.248"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf325"
+  },
+  "domain_name": "abhorrent.pl",
+  "ipv4": [
+    "83.194.45.60"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf326"
+  },
+  "domain_name": "abhorrently.pl",
+  "ipv4": [
+    "94.223.82.127"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf327"
+  },
+  "domain_name": "abhorrer.pl",
+  "ipv4": [
+    "105.252.119.194"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf328"
+  },
+  "domain_name": "abhorrers.pl",
+  "ipv4": [
+    "116.26.156.6"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf329"
+  },
+  "domain_name": "abhorrible.pl",
+  "ipv4": [
+    "127.55.193.73"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32a"
+  },
+  "domain_name": "abhorring.pl",
+  "ipv4": [
+    "138.84.230.140"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32b"
+  },
+  "domain_name": "abhors.pl",
+  "ipv4": [
+    "149.113.12.207"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32c"
+  },
+  "domain_name": "Abhorson.pl",
+  "ipv4": [
+    "160.142.49.19"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32d"
+  },
+  "domain_name": "ABI.pl",
+  "ipv4": [
+    "171.171.86.86"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32e"
+  },
+  "domain_name": "aby.pl",
+  "ipv4": [
+    "182.200.123.153"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf32f"
+  },
+  "domain_name": "Abia.pl",
+  "ipv4": [
+    "193.229.160.220"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf330"
+  },
+  "domain_name": "Abiathar.pl",
+  "ipv4": [
+    "204.3.197.32"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf331"
+  },
+  "domain_name": "Abib.pl",
+  "ipv4": [
+    "215.32.234.99"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf332"
+  },
+  "domain_name": "abichite.pl",
+  "ipv4": [
+    "226.61.16.166"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf333"
+  },
+  "domain_name": "abidal.pl",
+  "ipv4": [
+    "237.90.53.233"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf334"
+  },
+  "domain_name": "abidance.pl",
+  "ipv4": [
+    "248.119.90.45"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf335"
+  },
+  "domain_name": "abidances.pl",
+  "ipv4": [
+    "4.148.127.112"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf336"
+  },
+  "domain_name": "abidden.pl",
+  "ipv4": [
+    "15.177.164.179"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf337"
+  },
+  "domain_name": "abide.pl",
+  "ipv4": [
+    "26.206.201.246"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf338"
+  },
+  "domain_name": "abided.pl",
+  "ipv4": [
+    "37.235.238.58"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf339"
+  },
+  "domain_name": "abider.pl",
+  "ipv4": [
+    "48.9.20.125"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33a"
+  },
+  "domain_name": "abiders.pl",
+  "ipv4": [
+    "59.38.57.192"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33b"
+  },
+  "domain_name": "abides.pl",
+  "ipv4": [
+    "70.67.94.4"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33c"
+  },
+  "domain_name": "abidi.pl",
+  "ipv4": [
+    "81.96.131.71"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33d"
+  },
+  "domain_name": "abiding.pl",
+  "ipv4": [
+    "92.125.168.138"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33e"
+  },
+  "domain_name": "abidingly.pl",
+  "ipv4": [
+    "103.154.205.205"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf33f"
+  },
+  "domain_name": "abidingness.pl",
+  "ipv4": [
+    "114.183.242.17"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf340"
+  },
+  "domain_name": "Abidjan.pl",
+  "ipv4": [
+    "125.212.24.84"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf341"
+  },
+  "domain_name": "Abydos.pl",
+  "ipv4": [
+    "136.241.61.151"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf342"
+  },
+  "domain_name": "Abie.pl",
+  "ipv4": [
+    "147.15.98.218"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf343"
+  },
+  "domain_name": "abye.pl",
+  "ipv4": [
+    "158.44.135.30"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf344"
+  },
+  "domain_name": "abied.pl",
+  "ipv4": [
+    "169.73.172.97"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf345"
+  },
+  "domain_name": "abyed.pl",
+  "ipv4": [
+    "180.102.209.164"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf346"
+  },
+  "domain_name": "abiegh.pl",
+  "ipv4": [
+    "191.131.246.231"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf347"
+  },
+  "domain_name": "abience.pl",
+  "ipv4": [
+    "202.160.28.43"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf348"
+  },
+  "domain_name": "abient.pl",
+  "ipv4": [
+    "213.189.65.110"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf349"
+  },
+  "domain_name": "Abies.pl",
+  "ipv4": [
+    "224.218.102.177"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34a"
+  },
+  "domain_name": "abyes.pl",
+  "ipv4": [
+    "235.247.139.244"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34b"
+  },
+  "domain_name": "abietate.pl",
+  "ipv4": [
+    "246.21.176.56"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34c"
+  },
+  "domain_name": "abietene.pl",
+  "ipv4": [
+    "2.50.213.123"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34d"
+  },
+  "domain_name": "abietic.pl",
+  "ipv4": [
+    "13.79.250.190"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34e"
+  },
+  "domain_name": "abietin.pl",
+  "ipv4": [
+    "24.108.32.2"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf34f"
+  },
+  "domain_name": "Abietineae.pl",
+  "ipv4": [
+    "35.137.69.69"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf350"
+  },
+  "domain_name": "abietineous.pl",
+  "ipv4": [
+    "46.166.106.136"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf351"
+  },
+  "domain_name": "abietinic.pl",
+  "ipv4": [
+    "57.195.143.203"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf352"
+  },
+  "domain_name": "abietite.pl",
+  "ipv4": [
+    "68.224.180.15"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf353"
+  },
+  "domain_name": "Abiezer.pl",
+  "ipv4": [
+    "79.253.217.82"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf354"
+  },
+  "domain_name": "Abigael.pl",
+  "ipv4": [
+    "90.27.254.149"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf355"
+  },
+  "domain_name": "Abigail.pl",
+  "ipv4": [
+    "101.56.36.216"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf356"
+  },
+  "domain_name": "abigails.pl",
+  "ipv4": [
+    "112.85.73.28"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf357"
+  },
+  "domain_name": "abigailship.pl",
+  "ipv4": [
+    "123.114.110.95"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf358"
+  },
+  "domain_name": "Abigale.pl",
+  "ipv4": [
+    "134.143.147.162"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf359"
+  },
+  "domain_name": "abigeat.pl",
+  "ipv4": [
+    "145.172.184.229"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35a"
+  },
+  "domain_name": "abigei.pl",
+  "ipv4": [
+    "156.201.221.41"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35b"
+  },
+  "domain_name": "abigeus.pl",
+  "ipv4": [
+    "167.230.3.108"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35c"
+  },
+  "domain_name": "Abihu.pl",
+  "ipv4": [
+    "178.4.40.175"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35d"
+  },
+  "domain_name": "abying.pl",
+  "ipv4": [
+    "189.33.77.242"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35e"
+  },
+  "domain_name": "Abijah.pl",
+  "ipv4": [
+    "200.62.114.54"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf35f"
+  },
+  "domain_name": "Abyla.pl",
+  "ipv4": [
+    "211.91.151.121"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf360"
+  },
+  "domain_name": "abilao.pl",
+  "ipv4": [
+    "222.120.188.188"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf361"
+  },
+  "domain_name": "Abilene.pl",
+  "ipv4": [
+    "233.149.225.255"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf362"
+  },
+  "domain_name": "abiliment.pl",
+  "ipv4": [
+    "244.178.7.67"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf363"
+  },
+  "domain_name": "Abilyne.pl",
+  "ipv4": [
+    "255.207.44.134"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf364"
+  },
+  "domain_name": "abilitable.pl",
+  "ipv4": [
+    "11.236.81.201"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf365"
+  },
+  "domain_name": "ability.pl",
+  "ipv4": [
+    "22.10.118.13"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf366"
+  },
+  "domain_name": "abilities.pl",
+  "ipv4": [
+    "33.39.155.80"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf367"
+  },
+  "domain_name": "ability's.pl",
+  "ipv4": [
+    "44.68.192.147"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf368"
+  },
+  "domain_name": "abilla.pl",
+  "ipv4": [
+    "55.97.229.214"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf369"
+  },
+  "domain_name": "abilo.pl",
+  "ipv4": [
+    "66.126.11.26"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36a"
+  },
+  "domain_name": "abime.pl",
+  "ipv4": [
+    "77.155.48.93"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36b"
+  },
+  "domain_name": "Abimelech.pl",
+  "ipv4": [
+    "88.184.85.160"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36c"
+  },
+  "domain_name": "Abineri.pl",
+  "ipv4": [
+    "99.213.122.227"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36d"
+  },
+  "domain_name": "Abingdon.pl",
+  "ipv4": [
+    "110.242.159.39"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36e"
+  },
+  "domain_name": "Abinger.pl",
+  "ipv4": [
+    "121.16.196.106"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf36f"
+  },
+  "domain_name": "Abington.pl",
+  "ipv4": [
+    "132.45.233.173"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf370"
+  },
+  "domain_name": "Abinoam.pl",
+  "ipv4": [
+    "143.74.15.240"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf371"
+  },
+  "domain_name": "Abinoem.pl",
+  "ipv4": [
+    "154.103.52.52"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf372"
+  },
+  "domain_name": "abintestate.pl",
+  "ipv4": [
+    "165.132.89.119"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf373"
+  },
+  "domain_name": "abiogeneses.pl",
+  "ipv4": [
+    "176.161.126.186"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf374"
+  },
+  "domain_name": "abiogenesis.pl",
+  "ipv4": [
+    "187.190.163.253"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf375"
+  },
+  "domain_name": "abiogenesist.pl",
+  "ipv4": [
+    "198.219.200.65"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf376"
+  },
+  "domain_name": "abiogenetic.pl",
+  "ipv4": [
+    "209.248.237.132"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf377"
+  },
+  "domain_name": "abiogenetical.pl",
+  "ipv4": [
+    "220.22.19.199"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf378"
+  },
+  "domain_name": "abiogenetically.pl",
+  "ipv4": [
+    "231.51.56.11"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf379"
+  },
+  "domain_name": "abiogeny.pl",
+  "ipv4": [
+    "242.80.93.78"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37a"
+  },
+  "domain_name": "abiogenist.pl",
+  "ipv4": [
+    "253.109.130.145"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37b"
+  },
+  "domain_name": "abiogenous.pl",
+  "ipv4": [
+    "9.138.167.212"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37c"
+  },
+  "domain_name": "abiology.pl",
+  "ipv4": [
+    "20.167.204.24"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37d"
+  },
+  "domain_name": "abiological.pl",
+  "ipv4": [
+    "31.196.241.91"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37e"
+  },
+  "domain_name": "abiologically.pl",
+  "ipv4": [
+    "42.225.23.158"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf37f"
+  },
+  "domain_name": "abioses.pl",
+  "ipv4": [
+    "53.254.60.225"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf380"
+  },
+  "domain_name": "abiosis.pl",
+  "ipv4": [
+    "64.28.97.37"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf381"
+  },
+  "domain_name": "abiotic.pl",
+  "ipv4": [
+    "75.57.134.104"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf382"
+  },
+  "domain_name": "abiotical.pl",
+  "ipv4": [
+    "86.86.171.171"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf383"
+  },
+  "domain_name": "abiotically.pl",
+  "ipv4": [
+    "97.115.208.238"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf384"
+  },
+  "domain_name": "abiotrophy.pl",
+  "ipv4": [
+    "108.144.245.50"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf385"
+  },
+  "domain_name": "abiotrophic.pl",
+  "ipv4": [
+    "119.173.27.117"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf386"
+  },
+  "domain_name": "Abipon.pl",
+  "ipv4": [
+    "130.202.64.184"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf387"
+  },
+  "domain_name": "Abiquiu.pl",
+  "ipv4": [
+    "141.231.101.251"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf388"
+  },
+  "domain_name": "abir.pl",
+  "ipv4": [
+    "152.5.138.63"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf389"
+  },
+  "domain_name": "abirritant.pl",
+  "ipv4": [
+    "163.34.175.130"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38a"
+  },
+  "domain_name": "abirritate.pl",
+  "ipv4": [
+    "174.63.212.197"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38b"
+  },
+  "domain_name": "abirritated.pl",
+  "ipv4": [
+    "185.92.249.9"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38c"
+  },
+  "domain_name": "abirritating.pl",
+  "ipv4": [
+    "196.121.31.76"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38d"
+  },
+  "domain_name": "abirritation.pl",
+  "ipv4": [
+    "207.150.68.143"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38e"
+  },
+  "domain_name": "abirritative.pl",
+  "ipv4": [
+    "218.179.105.210"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf38f"
+  },
+  "domain_name": "abys.pl",
+  "ipv4": [
+    "229.208.142.22"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf390"
+  },
+  "domain_name": "Abisag.pl",
+  "ipv4": [
+    "240.237.179.89"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf391"
+  },
+  "domain_name": "Abisha.pl",
+  "ipv4": [
+    "251.11.216.156"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf392"
+  },
+  "domain_name": "Abishag.pl",
+  "ipv4": [
+    "7.40.253.223"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf393"
+  },
+  "domain_name": "Abisia.pl",
+  "ipv4": [
+    "18.69.35.35"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf394"
+  },
+  "domain_name": "abysm.pl",
+  "ipv4": [
+    "29.98.72.102"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf395"
+  },
+  "domain_name": "abysmal.pl",
+  "ipv4": [
+    "40.127.109.169"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf396"
+  },
+  "domain_name": "abysmally.pl",
+  "ipv4": [
+    "51.156.146.236"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf397"
+  },
+  "domain_name": "abysms.pl",
+  "ipv4": [
+    "62.185.183.48"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf398"
+  },
+  "domain_name": "Abyss.pl",
+  "ipv4": [
+    "73.214.220.115"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf399"
+  },
+  "domain_name": "abyssa.pl",
+  "ipv4": [
+    "84.243.2.182"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39a"
+  },
+  "domain_name": "abyssal.pl",
+  "ipv4": [
+    "95.17.39.249"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39b"
+  },
+  "domain_name": "abysses.pl",
+  "ipv4": [
+    "106.46.76.61"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39c"
+  },
+  "domain_name": "Abyssinia.pl",
+  "ipv4": [
+    "117.75.113.128"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39d"
+  },
+  "domain_name": "Abyssinian.pl",
+  "ipv4": [
+    "128.104.150.195"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39e"
+  },
+  "domain_name": "abyssinians.pl",
+  "ipv4": [
+    "139.133.187.7"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf39f"
+  },
+  "domain_name": "abyssobenthonic.pl",
+  "ipv4": [
+    "150.162.224.74"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a0"
+  },
+  "domain_name": "abyssolith.pl",
+  "ipv4": [
+    "161.191.6.141"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a1"
+  },
+  "domain_name": "abyssopelagic.pl",
+  "ipv4": [
+    "172.220.43.208"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a2"
+  },
+  "domain_name": "abyss's.pl",
+  "ipv4": [
+    "183.249.80.20"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a3"
+  },
+  "domain_name": "abyssus.pl",
+  "ipv4": [
+    "194.23.117.87"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a4"
+  },
+  "domain_name": "abiston.pl",
+  "ipv4": [
+    "205.52.154.154"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a5"
+  },
+  "domain_name": "abit.pl",
+  "ipv4": [
+    "216.81.191.221"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a6"
+  },
+  "domain_name": "Abitibi.pl",
+  "ipv4": [
+    "227.110.228.33"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a7"
+  },
+  "domain_name": "Abiu.pl",
+  "ipv4": [
+    "238.139.10.100"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a8"
+  },
+  "domain_name": "abiuret.pl",
+  "ipv4": [
+    "249.168.47.167"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3a9"
+  },
+  "domain_name": "Abixah.pl",
+  "ipv4": [
+    "5.197.84.234"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3aa"
+  },
+  "domain_name": "abject.pl",
+  "ipv4": [
+    "16.226.121.46"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ab"
+  },
+  "domain_name": "abjectedness.pl",
+  "ipv4": [
+    "27.255.158.113"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ac"
+  },
+  "domain_name": "abjection.pl",
+  "ipv4": [
+    "38.29.195.180"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ad"
+  },
+  "domain_name": "abjections.pl",
+  "ipv4": [
+    "49.58.232.247"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ae"
+  },
+  "domain_name": "abjective.pl",
+  "ipv4": [
+    "60.87.14.59"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3af"
+  },
+  "domain_name": "abjectly.pl",
+  "ipv4": [
+    "71.116.51.126"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b0"
+  },
+  "domain_name": "abjectness.pl",
+  "ipv4": [
+    "82.145.88.193"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b1"
+  },
+  "domain_name": "abjectnesses.pl",
+  "ipv4": [
+    "93.174.125.5"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b2"
+  },
+  "domain_name": "abjoint.pl",
+  "ipv4": [
+    "104.203.162.72"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b3"
+  },
+  "domain_name": "abjudge.pl",
+  "ipv4": [
+    "115.232.199.139"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b4"
+  },
+  "domain_name": "abjudged.pl",
+  "ipv4": [
+    "126.6.236.206"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b5"
+  },
+  "domain_name": "abjudging.pl",
+  "ipv4": [
+    "137.35.18.18"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b6"
+  },
+  "domain_name": "abjudicate.pl",
+  "ipv4": [
+    "148.64.55.85"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b7"
+  },
+  "domain_name": "abjudicated.pl",
+  "ipv4": [
+    "159.93.92.152"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b8"
+  },
+  "domain_name": "abjudicating.pl",
+  "ipv4": [
+    "170.122.129.219"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3b9"
+  },
+  "domain_name": "abjudication.pl",
+  "ipv4": [
+    "181.151.166.31"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ba"
+  },
+  "domain_name": "abjudicator.pl",
+  "ipv4": [
+    "192.180.203.98"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3bb"
+  },
+  "domain_name": "abjugate.pl",
+  "ipv4": [
+    "203.209.240.165"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3bc"
+  },
+  "domain_name": "abjunct.pl",
+  "ipv4": [
+    "214.238.22.232"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3bd"
+  },
+  "domain_name": "abjunction.pl",
+  "ipv4": [
+    "225.12.59.44"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3be"
+  },
+  "domain_name": "abjunctive.pl",
+  "ipv4": [
+    "236.41.96.111"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3bf"
+  },
+  "domain_name": "abjuration.pl",
+  "ipv4": [
+    "247.70.133.178"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c0"
+  },
+  "domain_name": "abjurations.pl",
+  "ipv4": [
+    "3.99.170.245"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c1"
+  },
+  "domain_name": "abjuratory.pl",
+  "ipv4": [
+    "14.128.207.57"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c2"
+  },
+  "domain_name": "abjure.pl",
+  "ipv4": [
+    "25.157.244.124"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c3"
+  },
+  "domain_name": "abjured.pl",
+  "ipv4": [
+    "36.186.26.191"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c4"
+  },
+  "domain_name": "abjurement.pl",
+  "ipv4": [
+    "47.215.63.3"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c5"
+  },
+  "domain_name": "abjurer.pl",
+  "ipv4": [
+    "58.244.100.70"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c6"
+  },
+  "domain_name": "abjurers.pl",
+  "ipv4": [
+    "69.18.137.137"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c7"
+  },
+  "domain_name": "abjures.pl",
+  "ipv4": [
+    "80.47.174.204"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c8"
+  },
+  "domain_name": "abjuring.pl",
+  "ipv4": [
+    "91.76.211.16"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3c9"
+  },
+  "domain_name": "abkar.pl",
+  "ipv4": [
+    "102.105.248.83"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ca"
+  },
+  "domain_name": "abkari.pl",
+  "ipv4": [
+    "113.134.30.150"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3cb"
+  },
+  "domain_name": "abkary.pl",
+  "ipv4": [
+    "124.163.67.217"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3cc"
+  },
+  "domain_name": "Abkhas.pl",
+  "ipv4": [
+    "135.192.104.29"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3cd"
+  },
+  "domain_name": "Abkhasia.pl",
+  "ipv4": [
+    "146.221.141.96"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ce"
+  },
+  "domain_name": "Abkhasian.pl",
+  "ipv4": [
+    "157.250.178.163"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3cf"
+  },
+  "domain_name": "Abkhaz.pl",
+  "ipv4": [
+    "168.24.215.230"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d0"
+  },
+  "domain_name": "Abkhazia.pl",
+  "ipv4": [
+    "179.53.252.42"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d1"
+  },
+  "domain_name": "Abkhazian.pl",
+  "ipv4": [
+    "190.82.34.109"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d2"
+  },
+  "domain_name": "abl.pl",
+  "ipv4": [
+    "201.111.71.176"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d3"
+  },
+  "domain_name": "abl..pl",
+  "ipv4": [
+    "212.140.108.243"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d4"
+  },
+  "domain_name": "ablach.pl",
+  "ipv4": [
+    "223.169.145.55"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d5"
+  },
+  "domain_name": "ablactate.pl",
+  "ipv4": [
+    "234.198.182.122"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d6"
+  },
+  "domain_name": "ablactated.pl",
+  "ipv4": [
+    "245.227.219.189"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d7"
+  },
+  "domain_name": "ablactating.pl",
+  "ipv4": [
+    "1.1.1.1"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d8"
+  },
+  "domain_name": "ablactation.pl",
+  "ipv4": [
+    "12.30.38.68"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3d9"
+  },
+  "domain_name": "ablaqueate.pl",
+  "ipv4": [
+    "23.59.75.135"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3da"
+  },
+  "domain_name": "ablare.pl",
+  "ipv4": [
+    "34.88.112.202"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3db"
+  },
+  "domain_name": "A-blast.pl",
+  "ipv4": [
+    "45.117.149.14"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3dc"
+  },
+  "domain_name": "ablastemic.pl",
+  "ipv4": [
+    "56.146.186.81"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3dd"
+  },
+  "domain_name": "ablastin.pl",
+  "ipv4": [
+    "67.175.223.148"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3de"
+  },
+  "domain_name": "ablastous.pl",
+  "ipv4": [
+    "78.204.5.215"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3df"
+  },
+  "domain_name": "ablate.pl",
+  "ipv4": [
+    "89.233.42.27"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e0"
+  },
+  "domain_name": "ablated.pl",
+  "ipv4": [
+    "100.7.79.94"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e1"
+  },
+  "domain_name": "ablates.pl",
+  "ipv4": [
+    "111.36.116.161"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e2"
+  },
+  "domain_name": "ablating.pl",
+  "ipv4": [
+    "122.65.153.228"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e3"
+  },
+  "domain_name": "ablation.pl",
+  "ipv4": [
+    "133.94.190.40"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e4"
+  },
+  "domain_name": "ablations.pl",
+  "ipv4": [
+    "144.123.227.107"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e5"
+  },
+  "domain_name": "ablatitious.pl",
+  "ipv4": [
+    "155.152.9.174"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e6"
+  },
+  "domain_name": "ablatival.pl",
+  "ipv4": [
+    "166.181.46.241"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e7"
+  },
+  "domain_name": "ablative.pl",
+  "ipv4": [
+    "177.210.83.53"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e8"
+  },
+  "domain_name": "ablatively.pl",
+  "ipv4": [
+    "188.239.120.120"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3e9"
+  },
+  "domain_name": "ablatives.pl",
+  "ipv4": [
+    "199.13.157.187"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ea"
+  },
+  "domain_name": "ablator.pl",
+  "ipv4": [
+    "210.42.194.254"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3eb"
+  },
+  "domain_name": "ablaut.pl",
+  "ipv4": [
+    "221.71.231.66"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ec"
+  },
+  "domain_name": "ablauts.pl",
+  "ipv4": [
+    "232.100.13.133"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ed"
+  },
+  "domain_name": "ablaze.pl",
+  "ipv4": [
+    "243.129.50.200"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ee"
+  },
+  "domain_name": "able.pl",
+  "ipv4": [
+    "254.158.87.12"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ef"
+  },
+  "domain_name": "able-bodied.pl",
+  "ipv4": [
+    "10.187.124.79"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f0"
+  },
+  "domain_name": "able-bodiedness.pl",
+  "ipv4": [
+    "21.216.161.146"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f1"
+  },
+  "domain_name": "ableeze.pl",
+  "ipv4": [
+    "32.245.198.213"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f2"
+  },
+  "domain_name": "ablegate.pl",
+  "ipv4": [
+    "43.19.235.25"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f3"
+  },
+  "domain_name": "ablegates.pl",
+  "ipv4": [
+    "54.48.17.92"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f4"
+  },
+  "domain_name": "ablegation.pl",
+  "ipv4": [
+    "65.77.54.159"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f5"
+  },
+  "domain_name": "able-minded.pl",
+  "ipv4": [
+    "76.106.91.226"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f6"
+  },
+  "domain_name": "able-mindedness.pl",
+  "ipv4": [
+    "87.135.128.38"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f7"
+  },
+  "domain_name": "ablend.pl",
+  "ipv4": [
+    "98.164.165.105"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f8"
+  },
+  "domain_name": "ableness.pl",
+  "ipv4": [
+    "109.193.202.172"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3f9"
+  },
+  "domain_name": "ablepharia.pl",
+  "ipv4": [
+    "120.222.239.239"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3fa"
+  },
+  "domain_name": "ablepharon.pl",
+  "ipv4": [
+    "131.251.21.51"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3fb"
+  },
+  "domain_name": "ablepharous.pl",
+  "ipv4": [
+    "142.25.58.118"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3fc"
+  },
+  "domain_name": "Ablepharus.pl",
+  "ipv4": [
+    "153.54.95.185"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3fd"
+  },
+  "domain_name": "ablepsy.pl",
+  "ipv4": [
+    "164.83.132.252"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3fe"
+  },
+  "domain_name": "ablepsia.pl",
+  "ipv4": [
+    "175.112.169.64"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf3ff"
+  },
+  "domain_name": "ableptical.pl",
+  "ipv4": [
+    "186.141.206.131"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf400"
+  },
+  "domain_name": "ableptically.pl",
+  "ipv4": [
+    "197.170.243.198"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf401"
+  },
+  "domain_name": "abler.pl",
+  "ipv4": [
+    "208.199.25.10"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf402"
+  },
+  "domain_name": "ables.pl",
+  "ipv4": [
+    "219.228.62.77"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf403"
+  },
+  "domain_name": "ablesse.pl",
+  "ipv4": [
+    "230.2.99.144"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf404"
+  },
+  "domain_name": "ablest.pl",
+  "ipv4": [
+    "241.31.136.211"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf405"
+  },
+  "domain_name": "ablet.pl",
+  "ipv4": [
+    "252.60.173.23"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf406"
+  },
+  "domain_name": "ablewhackets.pl",
+  "ipv4": [
+    "8.89.210.90"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf407"
+  },
+  "domain_name": "ably.pl",
+  "ipv4": [
+    "19.118.247.157"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf408"
+  },
+  "domain_name": "ablings.pl",
+  "ipv4": [
+    "30.147.29.224"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf409"
+  },
+  "domain_name": "ablins.pl",
+  "ipv4": [
+    "41.176.66.36"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40a"
+  },
+  "domain_name": "ablock.pl",
+  "ipv4": [
+    "52.205.103.103"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40b"
+  },
+  "domain_name": "abloom.pl",
+  "ipv4": [
+    "63.234.140.170"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40c"
+  },
+  "domain_name": "ablow.pl",
+  "ipv4": [
+    "74.8.177.237"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40d"
+  },
+  "domain_name": "ABLS.pl",
+  "ipv4": [
+    "85.37.214.49"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40e"
+  },
+  "domain_name": "ablude.pl",
+  "ipv4": [
+    "96.66.251.116"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf40f"
+  },
+  "domain_name": "abluent.pl",
+  "ipv4": [
+    "107.95.33.183"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf410"
+  },
+  "domain_name": "abluents.pl",
+  "ipv4": [
+    "118.124.70.250"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf411"
+  },
+  "domain_name": "ablush.pl",
+  "ipv4": [
+    "129.153.107.62"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf412"
+  },
+  "domain_name": "ablute.pl",
+  "ipv4": [
+    "140.182.144.129"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf413"
+  },
+  "domain_name": "abluted.pl",
+  "ipv4": [
+    "151.211.181.196"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf414"
+  },
+  "domain_name": "ablution.pl",
+  "ipv4": [
+    "162.240.218.8"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf415"
+  },
+  "domain_name": "ablutionary.pl",
+  "ipv4": [
+    "173.14.255.75"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf416"
+  },
+  "domain_name": "ablutions.pl",
+  "ipv4": [
+    "184.43.37.142"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf417"
+  },
+  "domain_name": "abluvion.pl",
+  "ipv4": [
+    "195.72.74.209"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf418"
+  },
+  "domain_name": "ABM.pl",
+  "ipv4": [
+    "206.101.111.21"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf419"
+  },
+  "domain_name": "abmho.pl",
+  "ipv4": [
+    "217.130.148.88"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41a"
+  },
+  "domain_name": "abmhos.pl",
+  "ipv4": [
+    "228.159.185.155"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41b"
+  },
+  "domain_name": "abmodality.pl",
+  "ipv4": [
+    "239.188.222.222"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41c"
+  },
+  "domain_name": "abmodalities.pl",
+  "ipv4": [
+    "250.217.4.34"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41d"
+  },
+  "domain_name": "abn.pl",
+  "ipv4": [
+    "6.246.41.101"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41e"
+  },
+  "domain_name": "Abnaki.pl",
+  "ipv4": [
+    "17.20.78.168"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf41f"
+  },
+  "domain_name": "Abnakis.pl",
+  "ipv4": [
+    "28.49.115.235"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf420"
+  },
+  "domain_name": "abnegate.pl",
+  "ipv4": [
+    "39.78.152.47"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf421"
+  },
+  "domain_name": "abnegated.pl",
+  "ipv4": [
+    "50.107.189.114"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf422"
+  },
+  "domain_name": "abnegates.pl",
+  "ipv4": [
+    "61.136.226.181"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf423"
+  },
+  "domain_name": "abnegating.pl",
+  "ipv4": [
+    "72.165.8.248"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf424"
+  },
+  "domain_name": "abnegation.pl",
+  "ipv4": [
+    "83.194.45.60"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf425"
+  },
+  "domain_name": "abnegations.pl",
+  "ipv4": [
+    "94.223.82.127"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf426"
+  },
+  "domain_name": "abnegative.pl",
+  "ipv4": [
+    "105.252.119.194"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf427"
+  },
+  "domain_name": "abnegator.pl",
+  "ipv4": [
+    "116.26.156.6"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf428"
+  },
+  "domain_name": "abnegators.pl",
+  "ipv4": [
+    "127.55.193.73"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf429"
+  },
+  "domain_name": "Abner.pl",
+  "ipv4": [
+    "138.84.230.140"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42a"
+  },
+  "domain_name": "abnerval.pl",
+  "ipv4": [
+    "149.113.12.207"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42b"
+  },
+  "domain_name": "abnet.pl",
+  "ipv4": [
+    "160.142.49.19"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42c"
+  },
+  "domain_name": "abneural.pl",
+  "ipv4": [
+    "171.171.86.86"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42d"
+  },
+  "domain_name": "abnormal.pl",
+  "ipv4": [
+    "182.200.123.153"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42e"
+  },
+  "domain_name": "abnormalcy.pl",
+  "ipv4": [
+    "193.229.160.220"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf42f"
+  },
+  "domain_name": "abnormalcies.pl",
+  "ipv4": [
+    "204.3.197.32"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf430"
+  },
+  "domain_name": "abnormalise.pl",
+  "ipv4": [
+    "215.32.234.99"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf431"
+  },
+  "domain_name": "abnormalised.pl",
+  "ipv4": [
+    "226.61.16.166"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf432"
+  },
+  "domain_name": "abnormalising.pl",
+  "ipv4": [
+    "237.90.53.233"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf433"
+  },
+  "domain_name": "abnormalism.pl",
+  "ipv4": [
+    "248.119.90.45"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf434"
+  },
+  "domain_name": "abnormalist.pl",
+  "ipv4": [
+    "4.148.127.112"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf435"
+  },
+  "domain_name": "abnormality.pl",
+  "ipv4": [
+    "15.177.164.179"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf436"
+  },
+  "domain_name": "abnormalities.pl",
+  "ipv4": [
+    "26.206.201.246"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf437"
+  },
+  "domain_name": "abnormalize.pl",
+  "ipv4": [
+    "37.235.238.58"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf438"
+  },
+  "domain_name": "abnormalized.pl",
+  "ipv4": [
+    "48.9.20.125"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf439"
+  },
+  "domain_name": "abnormalizing.pl",
+  "ipv4": [
+    "59.38.57.192"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43a"
+  },
+  "domain_name": "abnormally.pl",
+  "ipv4": [
+    "70.67.94.4"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43b"
+  },
+  "domain_name": "abnormalness.pl",
+  "ipv4": [
+    "81.96.131.71"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43c"
+  },
+  "domain_name": "abnormals.pl",
+  "ipv4": [
+    "92.125.168.138"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43d"
+  },
+  "domain_name": "abnormity.pl",
+  "ipv4": [
+    "103.154.205.205"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43e"
+  },
+  "domain_name": "abnormities.pl",
+  "ipv4": [
+    "114.183.242.17"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf43f"
+  },
+  "domain_name": "abnormous.pl",
+  "ipv4": [
+    "125.212.24.84"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf440"
+  },
+  "domain_name": "abnumerable.pl",
+  "ipv4": [
+    "136.241.61.151"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf441"
+  },
+  "domain_name": "Abo.pl",
+  "ipv4": [
+    "147.15.98.218"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf442"
+  },
+  "domain_name": "aboard.pl",
+  "ipv4": [
+    "158.44.135.30"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf443"
+  },
+  "domain_name": "aboardage.pl",
+  "ipv4": [
+    "169.73.172.97"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf444"
+  },
+  "domain_name": "Abobra.pl",
+  "ipv4": [
+    "180.102.209.164"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf445"
+  },
+  "domain_name": "abococket.pl",
+  "ipv4": [
+    "191.131.246.231"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf446"
+  },
+  "domain_name": "abodah.pl",
+  "ipv4": [
+    "202.160.28.43"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf447"
+  },
+  "domain_name": "abode.pl",
+  "ipv4": [
+    "213.189.65.110"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf448"
+  },
+  "domain_name": "aboded.pl",
+  "ipv4": [
+    "224.218.102.177"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf449"
+  },
+  "domain_name": "abodement.pl",
+  "ipv4": [
+    "235.247.139.244"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44a"
+  },
+  "domain_name": "abodes.pl",
+  "ipv4": [
+    "246.21.176.56"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44b"
+  },
+  "domain_name": "abode's.pl",
+  "ipv4": [
+    "2.50.213.123"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44c"
+  },
+  "domain_name": "abody.pl",
+  "ipv4": [
+    "13.79.250.190"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44d"
+  },
+  "domain_name": "aboding.pl",
+  "ipv4": [
+    "24.108.32.2"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44e"
+  },
+  "domain_name": "abogado.pl",
+  "ipv4": [
+    "35.137.69.69"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf44f"
+  },
+  "domain_name": "abogados.pl",
+  "ipv4": [
+    "46.166.106.136"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf450"
+  },
+  "domain_name": "abohm.pl",
+  "ipv4": [
+    "57.195.143.203"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf451"
+  },
+  "domain_name": "abohms.pl",
+  "ipv4": [
+    "68.224.180.15"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf452"
+  },
+  "domain_name": "aboideau.pl",
+  "ipv4": [
+    "79.253.217.82"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf453"
+  },
+  "domain_name": "aboideaus.pl",
+  "ipv4": [
+    "90.27.254.149"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf454"
+  },
+  "domain_name": "aboideaux.pl",
+  "ipv4": [
+    "101.56.36.216"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf455"
+  },
+  "domain_name": "aboil.pl",
+  "ipv4": [
+    "112.85.73.28"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf456"
+  },
+  "domain_name": "aboiteau.pl",
+  "ipv4": [
+    "123.114.110.95"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf457"
+  },
+  "domain_name": "aboiteaus.pl",
+  "ipv4": [
+    "134.143.147.162"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf458"
+  },
+  "domain_name": "aboiteaux.pl",
+  "ipv4": [
+    "145.172.184.229"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf459"
+  },
+  "domain_name": "abolete.pl",
+  "ipv4": [
+    "156.201.221.41"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45a"
+  },
+  "domain_name": "abolish.pl",
+  "ipv4": [
+    "167.230.3.108"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45b"
+  },
+  "domain_name": "abolishable.pl",
+  "ipv4": [
+    "178.4.40.175"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45c"
+  },
+  "domain_name": "abolished.pl",
+  "ipv4": [
+    "189.33.77.242"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45d"
+  },
+  "domain_name": "abolisher.pl",
+  "ipv4": [
+    "200.62.114.54"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45e"
+  },
+  "domain_name": "abolishers.pl",
+  "ipv4": [
+    "211.91.151.121"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf45f"
+  },
+  "domain_name": "abolishes.pl",
+  "ipv4": [
+    "222.120.188.188"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf460"
+  },
+  "domain_name": "abolishing.pl",
+  "ipv4": [
+    "233.149.225.255"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf461"
+  },
+  "domain_name": "abolishment.pl",
+  "ipv4": [
+    "244.178.7.67"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf462"
+  },
+  "domain_name": "abolishments.pl",
+  "ipv4": [
+    "255.207.44.134"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf463"
+  },
+  "domain_name": "abolishment's.pl",
+  "ipv4": [
+    "11.236.81.201"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf464"
+  },
+  "domain_name": "abolition.pl",
+  "ipv4": [
+    "22.10.118.13"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf465"
+  },
+  "domain_name": "abolitionary.pl",
+  "ipv4": [
+    "33.39.155.80"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf466"
+  },
+  "domain_name": "abolitionise.pl",
+  "ipv4": [
+    "44.68.192.147"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf467"
+  },
+  "domain_name": "abolitionised.pl",
+  "ipv4": [
+    "55.97.229.214"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf468"
+  },
+  "domain_name": "abolitionising.pl",
+  "ipv4": [
+    "66.126.11.26"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf469"
+  },
+  "domain_name": "abolitionism.pl",
+  "ipv4": [
+    "77.155.48.93"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46a"
+  },
+  "domain_name": "abolitionist.pl",
+  "ipv4": [
+    "88.184.85.160"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46b"
+  },
+  "domain_name": "abolitionists.pl",
+  "ipv4": [
+    "99.213.122.227"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46c"
+  },
+  "domain_name": "abolitionize.pl",
+  "ipv4": [
+    "110.242.159.39"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46d"
+  },
+  "domain_name": "abolitionized.pl",
+  "ipv4": [
+    "121.16.196.106"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46e"
+  },
+  "domain_name": "abolitionizing.pl",
+  "ipv4": [
+    "132.45.233.173"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf46f"
+  },
+  "domain_name": "abolitions.pl",
+  "ipv4": [
+    "143.74.15.240"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf470"
+  },
+  "domain_name": "abolla.pl",
+  "ipv4": [
+    "154.103.52.52"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf471"
+  },
+  "domain_name": "abollae.pl",
+  "ipv4": [
+    "165.132.89.119"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf472"
+  },
+  "domain_name": "aboma.pl",
+  "ipv4": [
+    "176.161.126.186"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf473"
+  },
+  "domain_name": "abomas.pl",
+  "ipv4": [
+    "187.190.163.253"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf474"
+  },
+  "domain_name": "abomasa.pl",
+  "ipv4": [
+    "198.219.200.65"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf475"
+  },
+  "domain_name": "abomasal.pl",
+  "ipv4": [
+    "209.248.237.132"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf476"
+  },
+  "domain_name": "abomasi.pl",
+  "ipv4": [
+    "220.22.19.199"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf477"
+  },
+  "domain_name": "abomasum.pl",
+  "ipv4": [
+    "231.51.56.11"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf478"
+  },
+  "domain_name": "abomasus.pl",
+  "ipv4": [
+    "242.80.93.78"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf479"
+  },
+  "domain_name": "abomasusi.pl",
+  "ipv4": [
+    "253.109.130.145"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47a"
+  },
+  "domain_name": "A-bomb.pl",
+  "ipv4": [
+    "9.138.167.212"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47b"
+  },
+  "domain_name": "abominability.pl",
+  "ipv4": [
+    "20.167.204.24"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47c"
+  },
+  "domain_name": "abominable.pl",
+  "ipv4": [
+    "31.196.241.91"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47d"
+  },
+  "domain_name": "abominableness.pl",
+  "ipv4": [
+    "42.225.23.158"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47e"
+  },
+  "domain_name": "abominably.pl",
+  "ipv4": [
+    "53.254.60.225"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf47f"
+  },
+  "domain_name": "abominate.pl",
+  "ipv4": [
+    "64.28.97.37"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf480"
+  },
+  "domain_name": "abominated.pl",
+  "ipv4": [
+    "75.57.134.104"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf481"
+  },
+  "domain_name": "abominates.pl",
+  "ipv4": [
+    "86.86.171.171"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf482"
+  },
+  "domain_name": "abominating.pl",
+  "ipv4": [
+    "97.115.208.238"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf483"
+  },
+  "domain_name": "abomination.pl",
+  "ipv4": [
+    "108.144.245.50"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf484"
+  },
+  "domain_name": "abominations.pl",
+  "ipv4": [
+    "119.173.27.117"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf485"
+  },
+  "domain_name": "abominator.pl",
+  "ipv4": [
+    "130.202.64.184"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf486"
+  },
+  "domain_name": "abominators.pl",
+  "ipv4": [
+    "141.231.101.251"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf487"
+  },
+  "domain_name": "abomine.pl",
+  "ipv4": [
+    "152.5.138.63"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf488"
+  },
+  "domain_name": "abondance.pl",
+  "ipv4": [
+    "163.34.175.130"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf489"
+  },
+  "domain_name": "Abongo.pl",
+  "ipv4": [
+    "174.63.212.197"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48a"
+  },
+  "domain_name": "abonne.pl",
+  "ipv4": [
+    "185.92.249.9"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48b"
+  },
+  "domain_name": "abonnement.pl",
+  "ipv4": [
+    "196.121.31.76"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48c"
+  },
+  "domain_name": "aboon.pl",
+  "ipv4": [
+    "207.150.68.143"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48d"
+  },
+  "domain_name": "aborad.pl",
+  "ipv4": [
+    "218.179.105.210"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48e"
+  },
+  "domain_name": "aboral.pl",
+  "ipv4": [
+    "229.208.142.22"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf48f"
+  },
+  "domain_name": "aborally.pl",
+  "ipv4": [
+    "240.237.179.89"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf490"
+  },
+  "domain_name": "abord.pl",
+  "ipv4": [
+    "251.11.216.156"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf491"
+  },
+  "domain_name": "Aboriginal.pl",
+  "ipv4": [
+    "7.40.253.223"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf492"
+  },
+  "domain_name": "aboriginality.pl",
+  "ipv4": [
+    "18.69.35.35"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf493"
+  },
+  "domain_name": "aboriginally.pl",
+  "ipv4": [
+    "29.98.72.102"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf494"
+  },
+  "domain_name": "aboriginals.pl",
+  "ipv4": [
+    "40.127.109.169"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf495"
+  },
+  "domain_name": "aboriginary.pl",
+  "ipv4": [
+    "51.156.146.236"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf496"
+  },
+  "domain_name": "Aborigine.pl",
+  "ipv4": [
+    "62.185.183.48"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf497"
+  },
+  "domain_name": "aborigines.pl",
+  "ipv4": [
+    "73.214.220.115"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf498"
+  },
+  "domain_name": "aborigine's.pl",
+  "ipv4": [
+    "84.243.2.182"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf499"
+  },
+  "domain_name": "Abor-miri.pl",
+  "ipv4": [
+    "95.17.39.249"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49a"
+  },
+  "domain_name": "Aborn.pl",
+  "ipv4": [
+    "106.46.76.61"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49b"
+  },
+  "domain_name": "aborning.pl",
+  "ipv4": [
+    "117.75.113.128"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49c"
+  },
+  "domain_name": "a-borning.pl",
+  "ipv4": [
+    "128.104.150.195"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49d"
+  },
+  "domain_name": "aborsement.pl",
+  "ipv4": [
+    "139.133.187.7"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49e"
+  },
+  "domain_name": "aborsive.pl",
+  "ipv4": [
+    "150.162.224.74"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf49f"
+  },
+  "domain_name": "abort.pl",
+  "ipv4": [
+    "161.191.6.141"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a0"
+  },
+  "domain_name": "aborted.pl",
+  "ipv4": [
+    "172.220.43.208"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a1"
+  },
+  "domain_name": "aborter.pl",
+  "ipv4": [
+    "183.249.80.20"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a2"
+  },
+  "domain_name": "aborters.pl",
+  "ipv4": [
+    "194.23.117.87"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a3"
+  },
+  "domain_name": "aborticide.pl",
+  "ipv4": [
+    "205.52.154.154"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a4"
+  },
+  "domain_name": "abortient.pl",
+  "ipv4": [
+    "216.81.191.221"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a5"
+  },
+  "domain_name": "abortifacient.pl",
+  "ipv4": [
+    "227.110.228.33"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a6"
+  },
+  "domain_name": "abortin.pl",
+  "ipv4": [
+    "238.139.10.100"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a7"
+  },
+  "domain_name": "aborting.pl",
+  "ipv4": [
+    "249.168.47.167"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a8"
+  },
+  "domain_name": "abortion.pl",
+  "ipv4": [
+    "5.197.84.234"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4a9"
+  },
+  "domain_name": "abortional.pl",
+  "ipv4": [
+    "16.226.121.46"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4aa"
+  },
+  "domain_name": "abortionist.pl",
+  "ipv4": [
+    "27.255.158.113"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4ab"
+  },
+  "domain_name": "abortionists.pl",
+  "ipv4": [
+    "38.29.195.180"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4ac"
+  },
+  "domain_name": "abortions.pl",
+  "ipv4": [
+    "49.58.232.247"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4ad"
+  },
+  "domain_name": "abortion's.pl",
+  "ipv4": [
+    "60.87.14.59"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4ae"
+  },
+  "domain_name": "abortive.pl",
+  "ipv4": [
+    "71.116.51.126"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4af"
+  },
+  "domain_name": "abortively.pl",
+  "ipv4": [
+    "82.145.88.193"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b0"
+  },
+  "domain_name": "abortiveness.pl",
+  "ipv4": [
+    "93.174.125.5"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b1"
+  },
+  "domain_name": "abortogenic.pl",
+  "ipv4": [
+    "104.203.162.72"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b2"
+  },
+  "domain_name": "aborts.pl",
+  "ipv4": [
+    "115.232.199.139"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b3"
+  },
+  "domain_name": "abortus.pl",
+  "ipv4": [
+    "126.6.236.206"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b4"
+  },
+  "domain_name": "abortuses.pl",
+  "ipv4": [
+    "137.35.18.18"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b5"
+  },
+  "domain_name": "abos.pl",
+  "ipv4": [
+    "148.64.55.85"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b6"
+  },
+  "domain_name": "abote.pl",
+  "ipv4": [
+    "159.93.92.152"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b7"
+  },
+  "domain_name": "Abott.pl",
+  "ipv4": [
+    "170.122.129.219"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b8"
+  },
+  "domain_name": "abouchement.pl",
+  "ipv4": [
+    "181.151.166.31"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4b9"
+  },
+  "domain_name": "aboudikro.pl",
+  "ipv4": [
+    "192.180.203.98"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4ba"
+  },
+  "domain_name": "abought.pl",
+  "ipv4": [
+    "203.209.240.165"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4bb"
+  },
+  "domain_name": "Aboukir.pl",
+  "ipv4": [
+    "214.238.22.232"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4bc"
+  },
+  "domain_name": "aboulia.pl",
+  "ipv4": [
+    "225.12.59.44"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4bd"
+  },
+  "domain_name": "aboulias.pl",
+  "ipv4": [
+    "236.41.96.111"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4be"
+  },
+  "domain_name": "aboulic.pl",
+  "ipv4": [
+    "247.70.133.178"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4bf"
+  },
+  "domain_name": "abound.pl",
+  "ipv4": [
+    "3.99.170.245"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4c0"
+  },
+  "domain_name": "abounded.pl",
+  "ipv4": [
+    "14.128.207.57"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4c1"
+  },
+  "domain_name": "abounder.pl",
+  "ipv4": [
+    "25.157.244.124"
+  ],
+  "ipv6": []
+},{
+  "_id": {
+    "$oid": "6439bd7c8dbd0d4630aaf4c2"
+  },
+  "domain_name": "abounding.pl",
+  "ipv4": [
+    "36.186.26.191"
+  ],
+  "ipv6": []
+}]
